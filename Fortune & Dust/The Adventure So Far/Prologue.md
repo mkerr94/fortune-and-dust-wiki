@@ -1,0 +1,11 @@
+Jeb was cold. Not the cold of the lake-fog, misted on your skin after a night’s walk along the banks. Not the cold of beyond wood's-edge, the darkness hooting and chirping indifference. Death cold. The cold of the voices you hear when you're sure no one else is in the house.
+
+The [[Lenity Woods]] were always cold these days. He looked over his shoulder, shrugging his pack further onto his back. Behind, the soft glow of the gas-lamp town, like a willow-the-wisp beckoning him to turn. [[Clement's Hollow]]. Pa. Hattie. He sighed and watched a condensed puff of breath drift off into the night air. How did it come to this? How could Ma have left him here? Weren't they going to ride the Coastal Railway together? Weren't they going to see the Sea of Swords glittering as they flew by on wings of steel and steam?
+
+Still, that was then. And this is now. Nothing lay behind, not anymore. Pa and Hattie were staying, he was going. Nothing else to it. Jeb started as a rabbit ran past him and off into the undergrowth. On a different day, he might have been here with Hattie, two feet shorter and eight years lighter, chasing it together with his slingshot.
+
+Just a little further. He'd tied Brea to [[The Old Elm]] just on the North side of Lenity Woods. On her, he'd ride out into the prairie, and the great city of [[Portumluna]] beyond. He could hear her whinnying on the other side of the clearing. Eager to ride off and feel the night-damp press close and fast against her skin, as he was. Wait. Could he hear her? He pressed his ear to the fog. Nothing. How could he have gotten lost? Focus! Fog-in-the-head, Hattie always said so.
+
+Except… he wasn't lost. He pushed out past the edge of the clearing. There was the Old Elm. There were his riding reigns. There was Brea.
+
+Jeb laughed when he saw that half of her had been eaten. A terrible laugh. The curse of Clement's Hollow, must be, come to get him too. He almost laughed so much that he didn't hear them, until he felt the teeth. Out there, on the edge of nothing, Jebediah Clayborn laughed so much that he almost didn't feel the teeth tearing down his calf. He turned, pulled Pa's old revolver from the belt below his pack, and fired.
