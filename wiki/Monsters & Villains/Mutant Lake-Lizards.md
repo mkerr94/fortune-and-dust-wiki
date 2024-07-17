@@ -10,6 +10,6 @@ The mutated lake-lizards are defeated by the players during the events of [[Sess
 # Description
 Like the mutant hounds, the lake-lizards display varying phenotypes caused by an unknown mutation: one is equipped with dragonfly-like wings; one has enlarged hind legs and elongated ears; and one has three independent heads. Each appears to drip a thick, black liquid from their jaws.
 
-![[Pasted image 20240705192157.png | 300]]
-![[Pasted image 20240705192210.png | 300]]
-![[Pasted image 20240705192222.png | 300]]
+![[mutant-lake-lizard-1.png| 300]]
+![[mutant-lake-lizard-2.png| 300]]
+![[mutant-lake-lizard-3.png| 300]]

@@ -10,6 +10,6 @@ When injured, flesh from the hounds appears to writhe and fizzle with unknown en
 Defeated by the Players during the events of Session One, but not before killing Whip and gravely injuring Thomias Blake.
 
 # Description
-![[Pasted image 20240513231618.png | 400]]
+![[mutant-hound-1.png| 400]]
 
-![[Pasted image 20240513231630.png | 400]]
+![[mutant-hound-2.png| 400]]
