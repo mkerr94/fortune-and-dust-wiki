@@ -24,15 +24,15 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 
 # The Players
 
-| Boi    | Character                                                                                                                 |
-| ------ | ------------------------------------------------------------------------------------------------------------------------- |
-| Andy   | [[Amotti]]                                                                                                                |
-| Dale   | [[Lythara Sunstrider]]                                                                                                    |
-| Grant  | [[Elias Blackwood]]                                                                                                       |
-| Jamie  | [[Sel]]                                                                                                                   |
-| Mark   | [[public/Fortune & Dust/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach\|Caeldrid Àrmann an Gealach]] |
-| Raj    | [[Gambit]]                                                                                                                |
-| Stuart | [[Wild Bill]]                                                                                                             |
+| Boi    | Character                      |
+| ------ | ------------------------------ |
+| Andy   | [[Amotti]]                     |
+| Dale   | [[Lythara Sunstrider]]         |
+| Grant  | [[Elias Blackwood]]            |
+| Jamie  | [[Sel]]                        |
+| Mark   | [[Caeldrid Àrmann an Gealach]] |
+| Raj    | [[Gambit]]                     |
+| Stuart | [[Wild Bill]]                  |
 
 
 # The Adventure So Far

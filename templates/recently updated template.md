@@ -2,7 +2,7 @@
 const dataViewApi = app.plugins.plugins["dataview"].api;
 const fileName = "Recently Updated";
 const query = `TABLE file.mtime as "Last Modified"
-FROM "public/Fortune & Dust"
+FROM "wiki"
 WHERE file.name != "Recently Updated" AND file.name != "Recently Created"
 SORT file.mtime DESC
 LIMIT 8`;

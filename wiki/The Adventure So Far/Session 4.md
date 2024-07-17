@@ -1,5 +1,7 @@
 #chapter1 
 
+# Frontmatter
+
 > [!info] Date Played
 > 08/07/2024
 
@@ -9,6 +11,7 @@
 > [!success] Inspiring Player
 > [[Wild Bill]]
 
+---
 # The Events of Session 4
 The players face down the winged, insectoid Lenity lake-lizard with [[Holden Smith|Holden]] and [[Alvina]]. The creature begins to hover, swoop and snap at them from the air as they collectively try to bring it down. All the while, the leporine and three-headed lake lizards barge the western gate of [[Clement's Hollow]] as the thick wooden draw-bar bends and buckles under their combined strength.
 
