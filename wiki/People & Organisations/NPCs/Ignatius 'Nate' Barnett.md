@@ -1,3 +1,7 @@
+---
+aliases:
+  - Nate
+---
 #people #npc #clements-hollow 
 
 # Overview

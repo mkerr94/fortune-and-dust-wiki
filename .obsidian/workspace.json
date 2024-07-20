@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4aed1787fa332465",
+        "id": "5f4cb6a00895a075",
         "type": "tabs",
         "children": [
           {
-            "id": "21bb88b7919e7f68",
+            "id": "ffcc34c155105900",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/wizard-logo.png"
+                "file": "wiki/The Adventure So Far/Session 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/wizard-logo.png",
+                "file": "wiki/The Adventure So Far/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/wizard-logo.png",
+                "file": "wiki/The Adventure So Far/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/wizard-logo.png"
+                "file": "wiki/The Adventure So Far/Session 5.md"
               }
             }
           }
@@ -148,37 +150,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "931f3fe1c45d96f0",
+  "active": "ffcc34c155105900",
   "lastOpenFiles": [
+    "wiki/Alcadenan Historia/Marismente.md",
+    "assets/Pasted image 20240720141911.png",
+    "wiki/People & Organisations/Groups & Organisations/The Barnett-Blake Ironworks.md",
+    "wiki/Wiki Administration/Recently Updated.md",
+    "templates/recently updated template.md",
+    "assets/Pasted image 20240720141542.png",
+    "assets/Pasted image 20240720141552.png",
+    "wiki/Wiki Administration/Recently Created.md",
+    "wiki/The Adventure So Far/Session 5.md",
+    "wiki/People & Organisations/NPCs/Sam Clayborn.md",
+    "wiki/People & Organisations/NPCs/Jedediah ‘Jeb’ Clayborn.md",
+    "Nate.md",
+    "wiki/People & Organisations/NPCs/Ignatius 'Nate' Barnett.md",
+    "wiki/The Adventure So Far/Session 4.md",
+    "wiki/Places, Buildings and Holdings/Clement's Hollow.md",
+    "wiki/Game Rules and Guidelines/House Rules.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "wiki/Campaign Home.md",
+    "wiki/Game Rules and Guidelines/General Guidelines.md",
+    "assets/wizard-logo.png",
     "assets/mutant-lake-lizard-3.png",
     "assets/mutant-lake-lizard-2.png",
     "assets/mutant-lake-lizard-1.png",
     "assets/jessie-doc-lawrence.png",
     "assets/mutant-hound-2.png",
     "assets/mutant-hound-1.png",
-    "assets/Pasted image 20240513231624.png",
-    "assets/lewis-logo.jpeg",
-    "assets/d20-logo.png",
-    "assets/wizard-logo.png",
-    "assets/Screenshot 2023-12-16 at 17.47.27.png",
     "templates/recently created template.md",
     "wiki/People & Organisations/NPCs/Issy.md",
-    "wiki/Wiki Administration/Recently Updated.md",
-    "wiki/Wiki Administration/Recently Created.md",
-    "wiki/People & Organisations/NPCs/Ignatius 'Nate' Barnett.md",
     "wiki/People & Organisations/NPCs/Jessie 'Doc' Lawrence.md",
     "wiki/People & Organisations/NPCs/Magnolia 'Old Mags' Aurix.md",
-    "wiki/People & Organisations/Groups & Organisations/The Barnett-Blake Ironworks.md",
     "wiki/People & Organisations/Groups & Organisations/Alcadenan Senate.md",
-    "wiki/Campaign Home.md",
     "wiki/People & Organisations/NPCs/New Npc.md",
-    "templates/recently updated template.md",
     "wiki/The Adventure So Far/Session 1.md",
-    "wiki/The Adventure So Far/Session 4.md",
-    "wiki/Alcadenan Historia/Marismente.md",
-    "wiki/Places, Buildings and Holdings/Doc Lawrence's Surgery.md",
-    "wiki/Places, Buildings and Holdings/Clement's Hollow.md",
-    "wiki/Places, Buildings and Holdings/Clayborn Inn.md",
-    "wiki/Places, Buildings and Holdings/Alcadena.md"
+    "wiki/Places, Buildings and Holdings/Doc Lawrence's Surgery.md"
   ]
 }

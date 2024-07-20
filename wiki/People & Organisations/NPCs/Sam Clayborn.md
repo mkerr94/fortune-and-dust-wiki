@@ -1,3 +1,7 @@
+---
+aliases:
+  - Sam
+---
 #people #npc #clements-hollow 
 
 # Overview

@@ -13,6 +13,8 @@ The population is made of Faerunian settlers both common and wealthy, indigenous
 
 The society is young and vulnerable to chaos, with the laws of the cities rarely adhered to in the frontier
 
+
+
 # Latest Wiki Updates
 
 > [!info] Latest Creations

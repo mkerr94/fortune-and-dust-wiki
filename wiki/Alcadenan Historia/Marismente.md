@@ -16,3 +16,11 @@ While most contemporary Marismente live in a fragile peace with the colonists, s
 While travelling to Clement's Hollow, the Players learn more from [[Thomias Blake]]. Thomias explains that, a few days prior to the Player's arrival, soldiers from [[The Protectorate]] warned the management of [[The Barnett-Blake Ironworks]] that Marismentan militia had been spotted nearby and may attempt a raid on the foundry. Thomias also mentions that the Ironworks employs some Marismente and speaks of them respectfully, noting that they keep themselves to themselves and don't cause any trouble.
 
 The players also gather from Thomias that, among the Faerunian colonists, the Marismente are often referred to as 'Quagers'.
+
+# Description
+
+![[Pasted image 20240720141542.png]]
+
+![[Pasted image 20240720141552.png]]
+
+![[Pasted image 20240720141911.png]]
