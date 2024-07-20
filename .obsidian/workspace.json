@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/The Adventure So Far/Session 5.md",
+                "file": "wiki/Campaign Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/The Adventure So Far/Session 5.md",
+                "file": "wiki/Campaign Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/The Adventure So Far/Session 5.md",
+                "file": "wiki/Campaign Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/The Adventure So Far/Session 5.md"
+                "file": "wiki/Campaign Home.md"
               }
             }
           }
@@ -152,6 +152,10 @@
   },
   "active": "ffcc34c155105900",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "wiki/Campaign Home.md",
+    "Untitled.md",
+    "wiki/The Adventure So Far/Session 5.md",
     "wiki/Alcadenan Historia/Marismente.md",
     "assets/Pasted image 20240720141911.png",
     "wiki/People & Organisations/Groups & Organisations/The Barnett-Blake Ironworks.md",
@@ -160,7 +164,6 @@
     "assets/Pasted image 20240720141542.png",
     "assets/Pasted image 20240720141552.png",
     "wiki/Wiki Administration/Recently Created.md",
-    "wiki/The Adventure So Far/Session 5.md",
     "wiki/People & Organisations/NPCs/Sam Clayborn.md",
     "wiki/People & Organisations/NPCs/Jedediah ‘Jeb’ Clayborn.md",
     "Nate.md",
@@ -168,9 +171,6 @@
     "wiki/The Adventure So Far/Session 4.md",
     "wiki/Places, Buildings and Holdings/Clement's Hollow.md",
     "wiki/Game Rules and Guidelines/House Rules.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "wiki/Campaign Home.md",
     "wiki/Game Rules and Guidelines/General Guidelines.md",
     "assets/wizard-logo.png",
     "assets/mutant-lake-lizard-3.png",
