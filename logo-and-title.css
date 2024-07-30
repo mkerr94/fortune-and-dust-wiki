@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Rye&display=swap");
+
+.site-body-left-column-site-name {
+  font-family: "Rye";
+  font-size: 2.5em;
+  color: #333;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+.site-body-left-column-site-logo img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh; /* Optional: Center vertically as well */
+}

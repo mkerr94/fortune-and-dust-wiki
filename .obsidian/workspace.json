@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Campaign Home.md",
+                "file": "wiki/Wiki Administration/Recently Updated.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6be9d6a09675c950",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/clements-hollow-map.jpeg"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lenitium flor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Campaign Home.md",
+                "file": "wiki/Wiki Administration/Recently Updated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/Campaign Home.md",
+                "file": "wiki/Wiki Administration/Recently Updated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +135,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/Campaign Home.md"
+                "file": "wiki/Wiki Administration/Recently Updated.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,40 +163,43 @@
   },
   "active": "ffcc34c155105900",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "wiki/Wiki Administration/Recently Created.md",
+    "templates/recently created template.md",
     "wiki/Campaign Home.md",
-    "Untitled.md",
+    "wiki/Places, Buildings and Holdings/Clement's Hollow.md",
+    "assets/clements-hollow-map.jpeg",
     "wiki/The Adventure So Far/Session 5.md",
+    "duelist-augments.png",
+    "wiki/The Adventure So Far/Session 3.md",
+    "wiki/Monsters & Villains/Mutant Lake-Lizards.md",
+    "wiki/Documents & Letters/Vanderbilt Contract.md",
+    "wiki/Miscellaneous/Lenitium Florana.md",
+    "wiki/Monsters & Villains/Mutant Hounds.md",
+    "Untitled.canvas",
+    "duelists-x-factor.png",
+    "duelists-positioning.png",
+    "duelists-item-builds.png",
+    "duelists-flex-options.png",
+    "duelists-core-units.png",
+    "duelists-game-plan-part-2.png",
+    "duelists-game-plan.png",
+    "wiki/Miscellaneous",
+    "logo-and-title.css",
+    "Untitled 1.md",
+    "Untitled.md",
     "wiki/Alcadenan Historia/Marismente.md",
     "assets/Pasted image 20240720141911.png",
     "wiki/People & Organisations/Groups & Organisations/The Barnett-Blake Ironworks.md",
     "wiki/Wiki Administration/Recently Updated.md",
     "templates/recently updated template.md",
-    "assets/Pasted image 20240720141542.png",
-    "assets/Pasted image 20240720141552.png",
-    "wiki/Wiki Administration/Recently Created.md",
     "wiki/People & Organisations/NPCs/Sam Clayborn.md",
     "wiki/People & Organisations/NPCs/Jedediah ‘Jeb’ Clayborn.md",
     "Nate.md",
     "wiki/People & Organisations/NPCs/Ignatius 'Nate' Barnett.md",
     "wiki/The Adventure So Far/Session 4.md",
-    "wiki/Places, Buildings and Holdings/Clement's Hollow.md",
     "wiki/Game Rules and Guidelines/House Rules.md",
     "wiki/Game Rules and Guidelines/General Guidelines.md",
-    "assets/wizard-logo.png",
-    "assets/mutant-lake-lizard-3.png",
-    "assets/mutant-lake-lizard-2.png",
-    "assets/mutant-lake-lizard-1.png",
-    "assets/jessie-doc-lawrence.png",
-    "assets/mutant-hound-2.png",
-    "assets/mutant-hound-1.png",
-    "templates/recently created template.md",
     "wiki/People & Organisations/NPCs/Issy.md",
-    "wiki/People & Organisations/NPCs/Jessie 'Doc' Lawrence.md",
-    "wiki/People & Organisations/NPCs/Magnolia 'Old Mags' Aurix.md",
-    "wiki/People & Organisations/Groups & Organisations/Alcadenan Senate.md",
-    "wiki/People & Organisations/NPCs/New Npc.md",
-    "wiki/The Adventure So Far/Session 1.md",
-    "wiki/Places, Buildings and Holdings/Doc Lawrence's Surgery.md"
+    "wiki/People & Organisations/NPCs/Jessie 'Doc' Lawrence.md"
   ]
 }
