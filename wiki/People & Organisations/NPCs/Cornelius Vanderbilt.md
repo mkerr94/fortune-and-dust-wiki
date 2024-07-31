@@ -1,3 +1,7 @@
+---
+aliases:
+  - Vanderbilt
+---
 #people #npc #vanderbilt 
 
 # Overview

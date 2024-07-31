@@ -1,3 +1,7 @@
+---
+aliases:
+  - Thomias
+---
 #people #npc #clements-hollow 
 
 # Overview
@@ -12,6 +16,8 @@ Thomias travels regularly to and from Portumluna to meet with representatives of
 While travelling with Thomias in the carriage, the Players learn that Thomias is fiercely proud of his town and the role he plays in it. He speaks fondly of the people of Clement's Hollow and laments that they have fallen on such hard times.
 
 During his time with the Players in Session One, Thomias reveals pyromantic magical powers. He is injured when the Players are attacked by the [[Mutant Hounds]].
+
+In [[Session 5]], [[Sel]] experiences a strange telepathic connection with Thomias after attempting to contact him with Message while the halfling was still recovering and unconscious in [[Doc Lawrence's Surgery]]. In a vision, Sel sees through Thomias eyes a moment lost in time, during which [[Issy]], Thomias and [[Ignatius 'Nate' Barnett|Nate]] and [[Evangeline Barnett]] share a cup of tea on Issy's porch while construction takes place around them.
 
 # Relationships
 Friend of [[Whip]] whom he is often accompanied by on trips between [[Clement's Hollow]] and [[Portumluna]].

@@ -17,7 +17,13 @@ While travelling to Clement's Hollow, the Players learn more from [[Thomias Blak
 
 The players also gather from Thomias that, among the Faerunian colonists, the Marismente are often referred to as 'Quagers'.
 
+In [[Session 6]], the players encounter Marismente from the Lakeside tribe in and around Clement's Hollow.
+
+They are invited to dine with their matriarch, [[Rel-se]], and are given beads of cloudy-blue sea-glass as thanks for defeating the three-headed mutant lake-lizard. The players converse with the Marismente through mime and images, given that they understand some Common. However, their own tongue is a strange mixture of throat sounds and clicking. They learn that a sign of respect among the Marismente is to interlock fore-fingers in front of the chest. In the Lakeside camp, they observe some aspects of the culture: many of the Marismente fish the lake on intricately crafted wooden boats; they inhabit tents made of woven bark and reeds; they possess some Faerunian tools and currency.
+
 # Description
+"The figures have leathery skin of grey-green. Their limbs are long and sinewy, ending in bare feet and hands which, on closer inspection, are webbed between the digits. They stand between 8-9 ft tall. They wear strange tunics of what looks like wood bark and lake-kelp, intricately woven and cured to the point of being pliable yet tough. The two look at each other, then down at you. You can see that both have what looks like hair, however seems plant-like in colour and form – almost like the wet roots of water lilies draping down their hollow cheeks. From the centre of the faces, two large, spherical eyes observe you. Lidless, at first they appear to be featureless orbs of milky grey-white, however as your eyes adjust you see faint irises of dark green within."
+
 
 ![[Pasted image 20240720141542.png]]
 

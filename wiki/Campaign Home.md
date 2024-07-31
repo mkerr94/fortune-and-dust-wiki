@@ -42,6 +42,8 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 - [[Session 2]]
 - [[Session 3]]
 - [[Session 4]]
+- [[Session 5]]
+- [[Session 6]]
 
 
 # Campaign Overview
