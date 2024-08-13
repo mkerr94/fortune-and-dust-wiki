@@ -29,12 +29,12 @@ A collection of player and DM stats throughout the campaign.
 
 ## Character Records
 
-[[Wild Bill - Misfires]]
+[[Wild Bill Misfires]]
 
-[[Elias Blackwood - Sneak Attack]]
+[[Elias Blackwood Sneak Attacks]]
 
-[[Sel D'issan - Chronal Shift]]
+[[Sel D'issan's Chronal Shifts]]
 
-[[Amotti - Channel Divinity]]
+[[Amotti's Channel Divinity]]
 
 
