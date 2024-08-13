@@ -1,3 +1,7 @@
+---
+aliases:
+  - Carpenter brothers
+---
 #people #npc #clements-hollow 
 
 # Overview

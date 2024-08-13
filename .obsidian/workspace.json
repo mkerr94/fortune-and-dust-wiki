@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Places, Buildings and Holdings/Clayborn Inn.md",
+                "file": "wiki/Places, Buildings and Holdings/The Stables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Places, Buildings and Holdings/Clayborn Inn.md",
+                "file": "wiki/Places, Buildings and Holdings/The Stables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/Places, Buildings and Holdings/Clayborn Inn.md",
+                "file": "wiki/Places, Buildings and Holdings/The Stables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/Places, Buildings and Holdings/Clayborn Inn.md"
+                "file": "wiki/Places, Buildings and Holdings/The Stables.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "wiki/Places, Buildings and Holdings/Clayborn Inn.md"
+                "file": "wiki/Places, Buildings and Holdings/The Stables.md"
               }
             }
           }
@@ -174,8 +174,21 @@
   },
   "active": "f146159ff9026503",
   "lastOpenFiles": [
+    "wiki/People & Organisations/NPCs/Gram, Pernille and Clara.md",
+    "wiki/The Adventure So Far/Session 7.md",
+    "wiki/People & Organisations/NPCs/Whip.md",
     "wiki/Wiki Administration/Recently Updated.md",
     "wiki/Wiki Administration/Recently Created.md",
+    "templates/recently updated template.md",
+    "templates/recently created template.md",
+    "templates/Session Notes Template.md",
+    "wiki/Campaign Home.md",
+    "wiki/Places, Buildings and Holdings/The Stables.md",
+    "wiki/The Adventure So Far/Session 6.md",
+    "wiki/People & Organisations/NPCs/Arthur and Neall Carpenter.md",
+    "wiki/People & Organisations/Player Characters/Amotti.md",
+    "wiki/People & Organisations/Player Characters/Sel.md",
+    "wiki/Places, Buildings and Holdings/Clayborn Inn.md",
     "wiki/People & Organisations/NPCs/Slim Ed.md",
     "wiki/People & Organisations/NPCs/Jessie 'Doc' Lawrence.md",
     "wiki/Miscellaneous/Lenitium Florana.md",
@@ -189,19 +202,6 @@
     "wiki/People & Organisations/NPCs/Hattie Clayborn.md",
     "assets/craftsman-sigil.png",
     "assets/protectorate-tattoo.png",
-    "wiki/People & Organisations/NPCs/'Aunt' Elsie-May.md",
-    "wiki/People & Organisations/Groups & Organisations/The Protectorate.md",
-    "wiki/Places, Buildings and Holdings/Lakeside Marismente Camp.md",
-    "wiki/The Adventure So Far/Session 6.md",
-    "wiki/The Adventure So Far/Session 5.md",
-    "wiki/Places, Buildings and Holdings/Lake Lenity.md",
-    "wiki/People & Organisations/Groups & Organisations/The Barnett-Blake Ironworks.md",
-    "wiki/People & Organisations/NPCs/Alvina.md",
-    "wiki/People & Organisations/NPCs/Arthur and Neall Carpenter.md",
-    "wiki/People & Organisations/NPCs/Clarence Tryst.md",
-    "wiki/People & Organisations/NPCs/Cornelius Vanderbilt.md",
-    "wiki/People & Organisations/NPCs/Eva Vanderbilt.md",
-    "wiki/People & Organisations/NPCs/Gur-ak and Sut-ak.md",
     "wiki/Alcadenan Historia/Deities",
     "assets/marismente-image-depicting-two-catfish.png",
     "publish.css",
