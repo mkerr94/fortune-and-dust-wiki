@@ -1,5 +1,6 @@
 {
-  "alwaysUpdateLinks": true,
-  "showRibbon": true,
-  "promptDelete": false
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

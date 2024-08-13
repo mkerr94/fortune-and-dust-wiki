@@ -1,7 +1,7 @@
-### Healing Done
+
 
 **Group Total Healing Done: 0**
 
-| Player             | Amotti      | Caeldrid    | Elias    | Gambit     | Lythara    | Sel D'issan    | Wild Bill |
-| ------------------ | ----------- | ----------- | ---------| ---------- | ---------- | -------------- | --------- |
-| Total Healing Done |             |             |          |            |            |                |		   |
+| Player             | [[Amotti]] | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | [[Elias Blackwood\|Elias]] | [[Gambit]] | [[Lythara Sunstrider\|Lythara]] | [[Sel]] | [[Wild Bill]] |
+| ------------------ | ---------- | ---------------------------------------- | -------------------------- | ---------- | ------------------------------- | ------- | ------------- |
+| Total Healing Done |            |                                          |                            |            |                                 |         |               |
