@@ -1,4 +1,4 @@
-# DM Nat 1s
+### DM Nat 1s
 
 Total DM Natural 1s:  **0**
 

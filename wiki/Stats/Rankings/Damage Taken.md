@@ -1,4 +1,4 @@
-# Damage Taken
+### Damage Taken
 
 **Group Total Damage Taken: 0**
 

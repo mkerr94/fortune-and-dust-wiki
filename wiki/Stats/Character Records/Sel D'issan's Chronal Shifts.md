@@ -1,4 +1,4 @@
-# Chronal Shifts
+### Chronal Shifts
 
 ### Total number of Chronal Shifts: 2
 

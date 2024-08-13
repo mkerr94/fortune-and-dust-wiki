@@ -1,4 +1,4 @@
-# Player Nat 1s
+### Player Nat 1s
 
 Total PC Natural 1s:  **4**
 

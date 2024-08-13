@@ -1,4 +1,4 @@
-# DM Nat 20s
+### DM Nat 20s
 
 Total DM Natural 20s:  **0**
 

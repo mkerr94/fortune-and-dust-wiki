@@ -1,4 +1,4 @@
-# Healing Done
+### Healing Done
 
 **Group Total Healing Done: 0**
 

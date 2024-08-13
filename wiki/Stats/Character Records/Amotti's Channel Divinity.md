@@ -1,4 +1,4 @@
-# Channel Divinity
+### Channel Divinity
 
 ### Total number of Channel Divinity Casts: 2
 

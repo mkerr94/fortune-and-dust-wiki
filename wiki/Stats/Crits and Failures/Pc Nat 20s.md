@@ -1,4 +1,4 @@
-# Player Nat 20s
+### Player Nat 20s
 
 Total PC Natural 20s:  **7**
 
