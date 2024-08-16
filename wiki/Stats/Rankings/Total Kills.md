@@ -1,3 +1,4 @@
+#stats 
 ### Party Kills
 
 Details on how many kills each character got.

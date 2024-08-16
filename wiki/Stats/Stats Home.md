@@ -1,25 +1,26 @@
 
-# Campaign Stats
 
-A collection of player and DM stats throughout the campaign.
+> [!info] Info
+> A collection of player and DM stats throughout the campaign.
 
-## Crits and Failures
+
+# Crits and Failures
 
 [[PC Nat 20s]]
 
-[[Pc Nat 1s]]
+[[PC Nat 1s]]
 
 [[DM Nat 20s]]
 
 [[DM Nat 1s]]
 
-## Rankings
+# Rankings
 
 [[HDYWTDT]]
 
 [[Total Kills]]
 
-[[Times KOd/Killed]]
+[[Times KO'd or Killed]]
 
 [[Damage Dealt]]
 
@@ -27,7 +28,7 @@ A collection of player and DM stats throughout the campaign.
 
 [[Healing Done]]
 
-## Character Records
+# Character Records
 
 [[Wild Bill Misfires]]
 

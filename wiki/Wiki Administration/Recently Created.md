@@ -1,10 +1,10 @@
 
-| File                                                                                          | Creation Date             |
-| --------------------------------------------------------------------------------------------- | ------------------------- |
-| [[wiki/People & Organisations/NPCs/Gram, Pernille and Clara.md\|Gram, Pernille and Clara]]    | 6:35 PM - August 11, 2024 |
-| [[wiki/Places, Buildings and Holdings/The Stables.md\|The Stables]]                           | 6:33 PM - August 11, 2024 |
-| [[wiki/The Adventure So Far/Session 7.md\|Session 7]]                                         | 6:25 PM - August 11, 2024 |
-| [[wiki/People & Organisations/NPCs/'Aunt' Elsie-May.md\|'Aunt' Elsie-May]]                    | 10:05 AM - July 31, 2024  |
-| [[wiki/Places, Buildings and Holdings/Lakeside Marismente Camp.md\|Lakeside Marismente Camp]] | 10:02 AM - July 31, 2024  |
-| [[wiki/People & Organisations/NPCs/Gur-ak and Sut-ak.md\|Gur-ak and Sut-ak]]                  | 9:55 AM - July 31, 2024   |
-| [[wiki/Places, Buildings and Holdings/Temple of the Craftsman.md\|Temple of the Craftsman]]   | 9:35 AM - July 31, 2024   |
+| File                                                                                      | Creation Date              |
+| ----------------------------------------------------------------------------------------- | -------------------------- |
+| [[wiki/The Adventure So Far/Interlude - Forged in Steel.md\|Interlude - Forged in Steel]] | 10:18 AM - August 15, 2024 |
+| [[wiki/Stats/Crits and Failures/PC Nat 20s.md\|PC Nat 20s]]                               | 6:16 PM - August 13, 2024  |
+| [[wiki/Stats/Rankings/Damage Dealt.md\|Damage Dealt]]                                     | 6:16 PM - August 13, 2024  |
+| [[wiki/Stats/Rankings/Damage Taken.md\|Damage Taken]]                                     | 6:16 PM - August 13, 2024  |
+| [[wiki/Stats/Rankings/HDYWTDT.md\|HDYWTDT]]                                               | 6:16 PM - August 13, 2024  |
+| [[wiki/Stats/Rankings/Healing Done.md\|Healing Done]]                                     | 6:16 PM - August 13, 2024  |
+| [[wiki/Stats/Rankings/Times KO'd or Killed.md\|Times KO'd or Killed]]                     | 6:16 PM - August 13, 2024  |

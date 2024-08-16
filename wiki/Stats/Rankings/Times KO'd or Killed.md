@@ -1,3 +1,4 @@
+#stats 
 ### *Insert Group Name* - Deaths and Knockouts
 
 ### Deaths: 0

@@ -1,7 +1,8 @@
-### DM Nat 1s
+#stats 
 
-Total DM Natural 1s:  **0**
+> [!important] Total Dungeon Master Nat 20's
+> **0**
 
 | Non Playable Character | Session Number | Skill Check |
 | ---------------------- | -------------- | ----------- |
-|                        |                |             | 
+|                        |                |             |
