@@ -1,0 +1,7 @@
+#location #clements-hollow #lake-lenity 
+
+Humble wooden shack with sheet iron roof situated on a small islet in the centre of [[Lake Lenity]]. Previously occupied by [[Issy]] and her late husband, the shack now belongs to [[Ignatius 'Nate' Barnett|Ignatius Barnett]].
+
+The islet is discovered by the players after their battle with the [[Lord of the Lake]] during the events of [[Session 10]]. Inside the shack, they find a strange glass ornament in the shape of a figure eight inside which a small orb of fire makes rhythmic loops. They also find a pictogram depicting a young Ignatius, [[Evangeline Barnett|Evangeline]] and [[Thomias Blake|Thomias]] in dance dress under a banner reading _"Welcome Initiates"_. Underneath a modest single bed, [[Wild Bill]] finds an ornate iron chest with four small circular indentations on the lid and a cylindrical clasp at the seam.
+
+On the desk in the fishing shack, the players read an experimental diary written in a neat, spiky script which details the attempts of the author to use _'pyromancy corporis'_ on various test subjects to medicinal effect. Next to it, sits a wooden chess board arranged with black and white marble pieces. Around its edges, there are fine written engravings.

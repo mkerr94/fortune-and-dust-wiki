@@ -25,8 +25,8 @@ They are invited to dine with their matriarch, [[Rel-se]], and are given beads o
 "The figures have leathery skin of grey-green. Their limbs are long and sinewy, ending in bare feet and hands which, on closer inspection, are webbed between the digits. They stand between 8-9 ft tall. They wear strange tunics of what looks like wood bark and lake-kelp, intricately woven and cured to the point of being pliable yet tough. The two look at each other, then down at you. You can see that both have what looks like hair, however seems plant-like in colour and form – almost like the wet roots of water lilies draping down their hollow cheeks. From the centre of the faces, two large, spherical eyes observe you. Lidless, at first they appear to be featureless orbs of milky grey-white, however as your eyes adjust you see faint irises of dark green within."
 
 
-![[Pasted image 20240720141542.png]]
+![[marismente.png]]
 
-![[Pasted image 20240720141552.png]]
+![[marismente-2.png]]
 
-![[Pasted image 20240720141911.png]]
+![[marismente-3.png]]

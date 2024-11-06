@@ -2,6 +2,7 @@
 aliases:
   - Nate
   - Ignatius Barnett
+  - Ignatius
 ---
 #people #npc #clements-hollow 
 

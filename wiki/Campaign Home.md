@@ -24,6 +24,11 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 > [!info] Latest Updations
 > ![[Recently Updated]]
 
+# The Adventure So Far
+
+> [!info] Session Notes
+> ![[Session List]]
+
 # The Players
 
 | Boi    | Character                      |
@@ -35,17 +40,6 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 | Mark   | [[Caeldrid Àrmann an Gealach]] |
 | Raj    | [[Gambit]]                     |
 | Stuart | [[Wild Bill]]                  |
-
-
-# The Adventure So Far
-- [[Session 1]]
-- [[Session 2]]
-- [[Session 3]]
-- [[Session 4]]
-- [[Session 5]]
-- [[Session 6]]
-- [[Session 7]]
-
 
 # Campaign Overview
 The campaign will blend aspects of **four** genres:
