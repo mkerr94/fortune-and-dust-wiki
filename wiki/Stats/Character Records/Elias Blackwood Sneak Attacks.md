@@ -12,3 +12,12 @@
 	1. Crossbow Attack vs Mutant Lake-Lizard
 	2. Crossbow Attack vs Mutant Lake-Lizard
 	3. Crossbow Attack vs Mutand Lake-Lizard
+
+**Session 9**
+	
+	1. Crossbow Attack vs Lord of the Lake
+
+**Session 10**
+	
+	1. Crossbow Attack vs Lord of the Lake
+	2. Crossbow Attack vs Lord of the Lake

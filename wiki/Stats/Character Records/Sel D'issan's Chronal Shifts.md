@@ -9,3 +9,8 @@
 **Session 4**
 	
 	1. Lake Lizard Attack Roll - Sel D'issan (Failure)
+
+**Session 9**
+	
+	1. Mutant Catfish Attack Roll - Wild Bill (Failure)
+	2. Attack Roll - Caeldrid (Failure)
