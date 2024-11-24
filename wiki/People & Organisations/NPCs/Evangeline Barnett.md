@@ -12,8 +12,14 @@ While talking to [[Jessie 'Doc' Lawrence|Jessie Lawrence]] in [[Session 5]], [[S
 
 Later, during a strange telepathic connection with [[Thomias Blake]], Sel sees a vision of Evangeline from the past in which she appears as a dark-skinned, beautiful woman with a warm smile and raven hair. She wears a dress of soft white linen.
 
+Sel learns more regarding the nature of Evangeline's illness from [[Ignatius 'Nate' Barnett|Ignatius]] while being held captive by him during the events of [[Session 12]]. According to Ignatius, in her current condition, she could easily destroy the entire town of [[Clement's Hollow]].
+
+
 # Roles
+
 Co-founder and owner of the [[The Barnett-Blake Ironworks|Barnett-Blake Ironworks]]. 
 
+
 # Relationships
+
 Wife to [[Ignatius 'Nate' Barnett]].

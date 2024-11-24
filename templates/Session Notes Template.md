@@ -18,4 +18,5 @@ intro-song:
 > [!success] Inspiring Player
 > [[Caeldrid Àrmann an Gealach|Caeldrid]]
 
+---
 # The Events of Session x

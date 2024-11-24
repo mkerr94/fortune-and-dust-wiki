@@ -3,5 +3,6 @@
   "callout-manager",
   "dataview",
   "templater-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-plugin-toc"
 ]

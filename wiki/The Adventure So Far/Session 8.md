@@ -20,6 +20,7 @@ intro-song:
 
 ---
 # The Events of Session 8
+
 Session 8 begins with [[Amotti]] considering his next move in the [[Clayborn Inn]], alone. With the rest of the party attending the funeral service for [[Whip]] at the town stables, he has been tasked with procuring a boat to allow them to venture to the island on the lake where [[Ignatius 'Nate' Barnett|Ignatius]]' shack awaits. He considers that, the previous night, [[Holden Smith|Holden]] had agreed to give the players use of a boat previously belonging to his [['Aunt' Elsie-May]], but warned that it needs some fixing before being taken out on the water.
 
 Naturally then, Amotti begins his explorations at [[Issy]]'s house, finding the door to the old dwarven woman's abode open. After searching Issy's home for a few minutes, to no avail, he leaves her a note asking if she knows anything about boats. He retires to the rocking chair on Issy's porch and begins to ritualistically commune with his gods for counsel using his twin earrings. Ever so faintly, he makes contact.

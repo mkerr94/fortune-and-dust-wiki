@@ -2,7 +2,9 @@
 aliases:
   - Barnett-Blake Ironworks
 ---
-#organisation #clements-hollow 
+#organisation #clements-hollow #place #dungeon
+
+# Overview
 
 Ironworks co-founded by [[Thomias Blake]], [[Ignatius 'Nate' Barnett]] and [[Evangeline Barnett]].
 
@@ -23,3 +25,8 @@ On the gangways at either side of the hall and in the centre of the room, sweat-
 The air fills periodically with steam and smoke as bars of molten red iron, glowing like embers, pass on conveyor belts and are quenched with a deluge of water pulled by the Marismente from troughs at their feet before moving into adjoining rooms.
 
 You can see that, on the left hand wall there are two door-ways (one to your immediate front-left, one further toward the back of the room. On the right hand wall, two similar doorways occupy the bottom floor, with matching ones sitting above on the gang-planked upper floor. On the upper floor, at the back of the main hall, a set of ornate double doors sits in the centre of the back wall."
+
+
+# Related
+
+- [[Barnett-Blake Ironworks Dungeon]]

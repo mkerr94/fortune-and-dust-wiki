@@ -1,7 +1,7 @@
 #stats
 
-> [!important] Total Player-Character Nat 20's
-> **6**
+> [!important] Total Player-Character Nat 1's
+> **7**
 
 # Nat 1 Leaderboard
 

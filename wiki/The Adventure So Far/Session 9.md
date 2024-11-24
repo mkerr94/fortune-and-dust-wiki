@@ -2,6 +2,7 @@
 date-created: 2024-09-25T19:36
 tags:
   - session-notes
+  - chapter1
 date-played: 2024-09-17
 inspiring-player: "[[Lythara Sunstrider|Lythara]]"
 intro-song: Dirtman - Carter Vail
@@ -18,7 +19,9 @@ intro-song: Dirtman - Carter Vail
 > [!success] Inspiring Player
 > [[Lythara Sunstrider|Lythara]]
 
+---
 # The Events of Session 9
+
 At the outset of Session 9, the party set out onto [[Lake Lenity]] on the Whisper of the Wind, the dimness of the early evening lit only by the crackling torches set in the prow and the eerie pulse of [[Amotti]]'s Dancing Lights. As [[Lythara Sunstrider|Lythara]] and [[Elias Blackwood|Eli]] row further and further out onto the murky water, the party quickly lose sight of shore.
 
 Slowing to a halt to determine their course, [[Caeldrid Àrmann an Gealach|Caeldrid]] sends Gwynevere above the fog to scout. Through her eyes, he identifies an area of the lake-fog that appears to be thicker than the rest, and the party tentatively decide to head in its direction. Gwynevere, circling and circling through the fading evening light and swirling grey clouds, also glimpses a figure in a brief parting in the haze. The figure manifests as a beautiful, pale woman of flowing blonde hair. She wears a sheer white gown and seems to hover in the air, before vanishing as quickly as she appeared.

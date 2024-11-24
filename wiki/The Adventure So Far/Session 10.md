@@ -2,6 +2,7 @@
 date-created: 2024-11-06T20:01
 tags:
   - session-notes
+  - chapter1
 date-played: 2024-10-01
 inspiring-player: "[[Caeldrid Àrmann an Gealach|Caeldrid]]"
 intro-song: Born Slippy (Nuxx) - Underworld
@@ -18,7 +19,9 @@ intro-song: Born Slippy (Nuxx) - Underworld
 > [!success] Inspiring Player
 > [[Caeldrid Àrmann an Gealach|Caeldrid]]
 
+---
 # The Events of Session 10
+
 Session 10 begins with the players under attack from the [[Lord of the Lake]], having just fallen from the splintered hull of the Whisper on the Wind.
 
 A struggle ensues in the water below and on several giant lily pads floating on the surface of lake as the players try to fend off the assaults of the enraged catfish. Amidst the chaos, [[Wild Bill]] is knocked unconscious while in the water, saved from drowning only by being heaved onto the surface of a lily pad by [[Elias Blackwood|Eli]]. [[Amotti]] and [[Lythara Sunstrider|Lythara]] also suffer multiple blows in their respective fights with the mutated lake-dwellers. The [[Lord of the Lake]], increasingly wounded and panicked, begins to rage and flail as its attacks become more and more desperate. It is finally dropped by two bolts from Eli's crossbow to the roof of its open mouth. At the point of death, the eyes of the creature soften and its pupils are briefly visible as it lets out a final mournful cry and begins to sink to the bottom of the murky water.
@@ -56,6 +59,8 @@ Subject with broken left forelimb was treated with rhythmic, focused waves of PC
 
 ### Final Entry
 Subject breathing irregular and heartbeat faint. Focused waves of PC in rhythm with metronome were directed at heart for two hours of sustained treatment. Heartrate increased to basal rate and breathing returned to normal. Subject regained consciousness 20 min after cessation of PC treatment. Survival at normal physiological function has been maintained now for 24 h. Unusual discoloration of eyes has developed, however no detriment to visual acuity has been observed. Experiment considered successful _(a final note reads – is she strong enough? Is it worth the risk?)_
+
+---
 
 While Eli and Lythara read, Sel also takes the pictogram from the shack and Amotti successfully begins to boil his tea after obtaining kindling from Caeldrid. Wild Bill investigates under the bed and finds an ornate, iron chest. The chest is inlaid with four small, circular indentations in a cross pattern (one at the top, two below it side by side, and one below) and a cylindrical clasp holds the seam shut. He and Lythara fail to open the chest by force, and the party decide to leave the shack with it.
 
