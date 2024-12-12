@@ -57,4 +57,5 @@ They ask about different factions of the Marismente, to which Rel-se responds by
 
 Standing and gesturing to her guard that the night's meeting is at an end, Rel-se bows her head in respect as the players return to the town – struggling to process the revelations of their day. The sun sets over the shoreline and the lake-fog swirls as nightfall descends...
 
->"A chest of iron. Open and lined in velvet. A hand of ashen-grey. A fiery red jewel within. Searing through the darkness."
+
+>*"A chest of iron. Open and lined in velvet. A hand of ashen-grey. A fiery red jewel within. Searing through the darkness."*

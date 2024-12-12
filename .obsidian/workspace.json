@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Wiki Update Template.md",
-                "mode": "source",
+                "file": "wiki/The Adventure So Far/Session 12.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wiki Update Template"
+              "title": "Session 12"
             }
           },
           {
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Wiki Update Template.md"
+                "file": "wiki/The Adventure So Far/Session 12.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wiki Update Template"
+              "title": "Outline of Session 12"
             }
           },
           {
@@ -208,14 +208,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/Wiki Update Template.md"
+                "file": "wiki/The Adventure So Far/Session 12.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Wiki Update Template"
+              "title": "File properties for Session 12"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,13 +235,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b495415145cc1730",
+  "active": "d75083ba1cc10355",
   "lastOpenFiles": [
-    "wiki/The Adventure So Far/Session 12.md",
+    "wiki/The Adventure So Far/Session 6.md",
+    "wiki/People & Organisations/NPCs/Thomias Blake.md",
+    "wiki/The Adventure So Far/Session 2.md",
     "templates/Wiki Update Template.md",
+    "wiki/The Adventure So Far/Session 12.md",
     "wiki/Campaign Home.md",
     "wiki/Wiki Administration/Session List.md",
-    "wiki/The Adventure So Far/Session 2.md",
     "templates/session list template.md",
     "templates/Session Notes Template.md",
     "wiki/Wiki Administration/Recently Updated.md",
@@ -262,8 +264,6 @@
     "wiki/The Adventure So Far/Session 10.md",
     "Session 11.md",
     "wiki/Places, Buildings and Holdings/Lake Lenity Fishing Shack.md",
-    "wiki/Places, Buildings and Holdings/Lake Lenity.md",
-    "wiki/Places, Buildings and Holdings/Lakeside Marismente Camp.md",
     "assets/marismente-3.png",
     "assets/marismente-2.png",
     "assets/marismente.png",

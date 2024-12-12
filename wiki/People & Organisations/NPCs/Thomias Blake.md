@@ -5,6 +5,7 @@ aliases:
 #people #npc #clements-hollow 
 
 # Overview
+
 Ageing male halfling and travelling companion to the Players at the outset of the story.
 
 Co-founder and representative of [[The Barnett-Blake Ironworks]].
@@ -19,5 +20,7 @@ During his time with the Players in Session One, Thomias reveals pyromantic magi
 
 In [[Session 5]], [[Sel]] experiences a strange telepathic connection with Thomias after attempting to contact him with Message while the halfling was still recovering and unconscious in [[Doc Lawrence's Surgery]]. In a vision, Sel sees through Thomias eyes a moment lost in time, during which [[Issy]], Thomias and [[Ignatius 'Nate' Barnett|Nate]] and [[Evangeline Barnett]] share a cup of tea on Issy's porch while construction takes place around them.
 
+
 # Relationships
+
 Friend of [[Whip]] whom he is often accompanied by on trips between [[Clement's Hollow]] and [[Portumluna]].
