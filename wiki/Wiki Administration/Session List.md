@@ -13,3 +13,6 @@
 - [[wiki/The Adventure So Far/Session 10.md|Session 10]]
 - [[wiki/The Adventure So Far/Session 11.md|Session 11]]
 - [[wiki/The Adventure So Far/Session 12.md|Session 12]]
+- [[wiki/The Adventure So Far/Session 13.md|Session 13]]
+- [[wiki/The Adventure So Far/Session 14.md|Session 14]]
+- [[wiki/The Adventure So Far/Session 15.md|Session 15]]

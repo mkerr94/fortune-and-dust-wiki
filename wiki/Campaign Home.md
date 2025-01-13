@@ -3,7 +3,7 @@
 
 Welcome, to ***Fortune & Dust***.
 
-[[Alcadena]] is a vast swathe of land in the new continent of [[Novedeña]], with the Sea of Swords off of it's eastern shoreline
+[[Alcadeña]] is a vast swathe of land in the new continent of [[Novedeña]], with the Sea of Swords off of it's eastern shoreline
 
 The geography includes labyrinthine mountain ranges, tidal lakes, cloying swamps, thundering rivers, eerie mist-woods, and vast stretches of sun-scorched prairie
 
@@ -12,8 +12,6 @@ In this era, rainfall is extremely scarce and rarely productive, this has led to
 The population is made of Faerunian settlers both common and wealthy, indigenous Alcadenans, and those simply seeking their fortune in the New World
 
 The society is young and vulnerable to chaos, with the laws of the cities rarely adhered to in the frontier
-
-
 
 # Latest Wiki Updates
 
@@ -27,7 +25,23 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 # The Adventure So Far
 
 > [!info] Session Notes
-> ![[Session List]]
+> - [[Session 0]]
+> - [[Session 1]]
+> - [[Session 2]]
+> - [[Session 3]]
+> - [[Session 4]]
+> - [[Session 5]]
+> - [[Session 6]]
+> - [[Session 7]]
+> - [[Session 8]]
+> - [[Session 9]]
+> - [[Session 10]]
+> - [[Session 11]]
+> - [[Session 12]]
+> - [[Session 13]]
+> - [[Session 14]]
+> - [[Session 15]]
+
 
 # The Players
 
@@ -47,7 +61,7 @@ The campaign will blend aspects of **four** genres:
 ## Frontier Western
 The campaign will take place in a relatively newly-settled (around 200 years BPA) region of a newly-discovered continent.
 
-The region is called [[Alcadena]], the new continent is called [[Novedeña]].
+The region is called [[Alcadeña]], the new continent is called [[Novedeña]].
 
 Rudimentary guns and other gunpowder-fueled weaponry will exist in the world.
 
@@ -63,7 +77,7 @@ Discovery is a destructive act, and the forging of a new world brings all manner
 The ancient land in which the settlers try to build their new lives is bound in mysticism and unknowable things, and these still exist in the forgotten places – sometimes with violence in their hearts
 
 ## Steampunk/Retrofuturism
-[[Alcadena]] is on the cusp of an industrial revolution – forged by the reaction of fire and water
+[[Alcadeña]] is on the cusp of an industrial revolution – forged by the reaction of fire and water
 
 Steam-powered industry has flourished here and has brought to life several new technologies, possibilities and dangers
 
@@ -72,4 +86,4 @@ The novelty of some of these technologies renders them financially inaccessible 
 ## High Fantasy
 This New World has a history, one steeped in magic and ancient powers
 
-Old Faerunian culture still exists among certain classes in [[Alcadena]], however the skilled use of magic is not widely known and is even suppressed by [[The Protectorate]] in the major settlements without certain affiliations and permissions
+Old Faerunian culture still exists among certain classes in [[Alcadeña]], however the skilled use of magic is not widely known and is even suppressed by [[The Protectorate]] in the major settlements without certain affiliations and permissions

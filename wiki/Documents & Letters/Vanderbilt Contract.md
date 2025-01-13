@@ -2,7 +2,7 @@
 
 The bearer and undersigned of this contract is under the employ of the [[Vanderbilt Railway Company]].
 
-This contract shall serve as their bill of passage on the good ship Flor de Mayo, sailing for [[Alcadena]] on 15th Eleint from [[Waterdeep]] Harbour.
+This contract shall serve as their bill of passage on the good ship Flor de Mayo, sailing for [[Alcadeña]] on 15th Eleint from [[Waterdeep]] Harbour.
 
 The bearer and undersigned so agrees to fulfil the following tasks within the lawful remit of the Vanderbilt Rail Co. :
 

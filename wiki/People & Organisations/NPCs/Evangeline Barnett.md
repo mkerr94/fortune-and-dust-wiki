@@ -14,6 +14,8 @@ Later, during a strange telepathic connection with [[Thomias Blake]], Sel sees a
 
 Sel learns more regarding the nature of Evangeline's illness from [[Ignatius 'Nate' Barnett|Ignatius]] while being held captive by him during the events of [[Session 12]]. According to Ignatius, in her current condition, she could easily destroy the entire town of [[Clement's Hollow]].
 
+In [[Session 14]], Sel shares a strange telepathic connection with Evangeline and is able to briefly see through her eyes and control her actions. During this event, Sel realises that Evangeline is pregnant and in great pain. Her body and mind are contorted by her mysterious illness – although her spirit appears to remain defiant. Sel sees that Evangeline is tormented by strange, formless figure of black energy. Through her, Sel is able to fend off the will of this entity for a short while before the connection is lost.
+
 
 # Roles
 

@@ -8,6 +8,8 @@ Observed by [[Elias Blackwood|Elias]] during [[Session 6]] to be using the rooft
 
 While being held captive by Ignatius during the events of [[Session 12]], [[Sel]] learns that Red has previously tried to trespass in the [[The Barnett-Blake Ironworks|Barnett-Blake Ironworks]] too – and has been stopped by [[Ignatius 'Nate' Barnett|Nate]].
 
+During their conversations with Red in [[Session 15]], the players learn more about him. They learn that he too came to [[Alcadeña]] by sea, and that he is working for an unknown employer. Red reveals that he was drawn to [[Clement's Hollow]] by rumours of the curse, seeking an unknown artefact which he no longer believes to be in town.
+
 
 # Description
 

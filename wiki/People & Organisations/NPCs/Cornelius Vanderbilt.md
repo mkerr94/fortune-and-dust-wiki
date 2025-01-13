@@ -5,7 +5,7 @@ aliases:
 #people #npc #vanderbilt 
 
 # Overview
-Owner and founder of the [[Vanderbilt Railway Company]]. A powerful and well-respected member of the [[Alcadena|Alcadenan]] upper class.
+Owner and founder of the [[Vanderbilt Railway Company]]. A powerful and well-respected member of the [[Alcadeña|Alcadenan]] upper class.
 
 Instigator of the [[Vanderbilt Contract]] that binds the Players together at the outset of the story of 'Fortune and Dust' - on the reverse of which the Players see a pictogram of Vanderbilt and his niece depicting him as below:
 

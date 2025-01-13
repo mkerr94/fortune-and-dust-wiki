@@ -8,7 +8,7 @@ aliases:
 # Overview
 During the events of Session 2, the players are introduced to Jessie by [[Holden Smith]]. They deliver the body of [[Whip]] for post-humous examination and hand over the severely injured [[Thomias Blake]] for treatment.
 
-From items found around her home and surgery, the players infer that Jessie has a keen interest in herbal medicine and the anatomy and physiology of the various races of [[Alcadena]].
+From items found around her home and surgery, the players infer that Jessie has a keen interest in herbal medicine and the anatomy and physiology of the various races of [[Alcadeña]].
 
 While talking with her during [[Session 5]], [[Sel]] and [[Caeldrid Àrmann an Gealach|Caeldrid]] learn that this interest extends particularly to the local medicinal flora of [[Lake Lenity]] and the nearby woods, as well as the physiology of the [[Marismente]].
 
