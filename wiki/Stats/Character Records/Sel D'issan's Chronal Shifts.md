@@ -1,6 +1,6 @@
 ### Chronal Shifts
 
-### Total number of Chronal Shifts: 2
+### Total number of Chronal Shifts: 4
 
 **Session 1**
 
@@ -14,3 +14,8 @@
 	
 	1. Mutant Catfish Attack Roll - Wild Bill (Failure)
 	2. Attack Roll - Caeldrid (Failure)
+
+**Session 16**
+	
+	1. Charm spell on Ignacious - Sel (Failure)
+	

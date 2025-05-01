@@ -1,24 +1,13 @@
 #stats 
 ### *Insert Group Name* - Deaths and Knockouts
 
-### Deaths: 0
-
-1. 
-2. 
-3. 
-
-### Times knocked unconscious: 1
-
-1. [[Wild Bill]]
-2. 
-3. 
 
 ### Unonsciousness Ranking
 
-1. [[Wild Bill]]: 1
-2. 
-3. 
-4. 
+1. [[Wild Bill]]: 2
+2. [[Gambit]]: 2
+3. [[Amotti]]: 1
+4. [[Elias Blackwood|Eli]]: 1
 5. 
 6. 
 7. 

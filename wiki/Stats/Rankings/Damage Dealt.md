@@ -1,8 +1,8 @@
 #stats 
 
 
-**Group Total Damage: 131**
+**Group Total Damage: 500**
 
 | Player       | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill |
 | ------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- |
-| Total Damage | 6      | 55       | 41    | 5      | 6       | 0           | 18        |
+| Total Damage | 60     | 106      | 73    | 83     | 29      | 61          | 88        |
