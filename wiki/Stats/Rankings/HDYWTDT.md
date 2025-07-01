@@ -4,11 +4,11 @@
 > The seven words we love to hear.
 
 
-**Total HDYWTDT**: 3
+**Total HDYWTDT**: 4
 
 ## HDYWTDT Leaderboard
-1. [[Gambit]]: 1
-2. [[Wild Bill]]: 1
+1. [[Wild Bill]]: 2
+2. [[Gambit]]: 1
 3. [[Elias Blackwood]]: 1
 4. [[Amotti]]: 0
 5. [[Caeldrid Àrmann an Gealach|Caeldrid]]: 0
@@ -19,3 +19,4 @@
 1. [[Gambit]] ([[Session 1]]) [[Mutant Hounds]].
 2. [[Wild Bill]] ([[Session 4]]) [[Mutant Lake-Lizards]].
 3. [[Elias Blackwood|Elias]] ([[Session 10]]) [[Lord of the Lake]].
+4. [[Wild Bill]] ([[Session 14]]) [[The Furnace Spider]]

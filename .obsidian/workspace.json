@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "adfbb91332aa0474",
+        "id": "ce61f4bb0668cde0",
         "type": "tabs",
         "children": [
           {
-            "id": "5e2a5bd3c50b8bf2",
+            "id": "526b47911ed9bb0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/The Adventure So Far/Session 15.md",
+                "file": "wiki/The Adventure So Far/Session 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 15"
+              "title": "Session 20"
+            }
+          },
+          {
+            "id": "81311d26fda7f3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/The Adventure So Far/Session 22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 22"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dodecahedron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,11 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "wiki/The Adventure So Far/Session 15.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Session 15"
+              "title": "Outline"
             }
           },
           {
@@ -193,45 +207,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e2a5bd3c50b8bf2",
+  "active": "81311d26fda7f3b5",
   "lastOpenFiles": [
     "wiki/Campaign Home.md",
-    "assets/fire-opal-golems.png",
-    "wiki/Wiki Administration/Session List.md",
     "wiki/Wiki Administration/Recently Updated.md",
     "wiki/Wiki Administration/Recently Created.md",
+    "wiki/The Adventure So Far/Session 22.md",
+    "wiki/The Adventure So Far/Session 1.md",
+    "wiki/The Adventure So Far/Session 0.md",
+    "wiki/People & Organisations/NPCs/Jessie 'Doc' Lawrence.md",
+    "wiki/The Adventure So Far/Session 21.md",
+    "wiki/People & Organisations/NPCs/Slim Ed.md",
+    "wiki/Magical Items/The Hollowsteel Blade.md",
+    "assets/hollowsteel_blade.png",
     "wiki/Magical Items/Garnet-inlayed Ring.md",
-    "wiki/Places, Buildings and Holdings/Novedeña.md",
-    "wiki/The Adventure So Far/Session 14.md",
-    "wiki/The Adventure So Far/Session 15.md",
-    "wiki/Monsters & Villains/Fire-opal Golems.md",
-    "wiki/People & Organisations/NPCs/Ignatius 'Nate' Barnett.md",
-    "wiki/Monsters & Villains/Ignatius Barnett, Flame Vessel.md",
+    "wiki/Magical Items/The Dodecahedron.md",
+    "wiki/Places, Buildings and Holdings/Shrine of the Forest.md",
+    "wiki/People & Organisations/NPCs/Rel-se.md",
+    "wiki/Places, Buildings and Holdings/Lake Lenity.md",
+    "wiki/The Adventure So Far/Session 20.md",
+    "wiki/The Adventure So Far/Session 19.md",
+    "wiki/Wiki Administration/Session List.md",
+    "templates/recently updated template.md",
+    "templates/recently created template.md",
+    "assets/Pasted image 20250325150745.png",
+    "wiki/The Adventure So Far/Session 18.md",
+    "wiki/People & Organisations/NPCs/Yuna.md",
+    "wiki/People & Organisations/NPCs/Edward.md",
+    "wiki/People & Organisations/NPCs/Zelraun.md",
+    "wiki/The Adventure So Far/Session 17.md",
+    "modal.md",
+    "assets/the_black_goo_image.png",
+    "assets/wild-bill-pfp.png",
+    "assets/fire-opal-golems.png",
     "assets/ignatius-flame-vessel.png",
-    "wiki/People & Organisations/NPCs/Red.md",
-    "wiki/Monsters & Villains/Unknown Entity.md",
-    "wiki/Places, Buildings and Holdings/Alcadeña.md",
-    "wiki/Monsters & Villains/The Fragments.md",
     "assets/the-fragments.png",
-    "wiki/People & Organisations/Player Characters/Wild Bill.md",
-    "wiki/The Adventure So Far/Session 13.md",
-    "wiki/The Adventure So Far/Session 12.md",
-    "wiki/The Adventure So Far/Session 11.md",
-    "wiki/People & Organisations/NPCs/Evangeline Barnett.md",
-    "wiki/Places, Buildings and Holdings/Dungeons/Barnett-Blake Ironworks Dungeon.md",
     "assets/garnet-inlayed-ring.png",
-    "wiki/The Adventure So Far/Session 2.md",
-    "wiki/Monsters & Villains/The Furnace Spider.md",
     "wiki/Magical Items",
-    "wiki/Monsters & Villains/Furnace Moltlings.md",
-    "wiki/Monsters & Villains/Mutant Hounds.md",
     "assets/furnace_moltling.png",
     "assets/furnace_spider.png",
     "wiki/Places, Buildings and Holdings/Dungeons",
-    "assets/marismente-3.png",
-    "assets/marismente-2.png",
-    "assets/marismente.png",
-    "assets/marismente-image-depicting-two-catfish.png",
     "wiki/Alcadenan Historia/Deities",
     "publish.css",
     "publish.css.custom.cowboy",
