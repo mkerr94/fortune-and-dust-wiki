@@ -7,21 +7,18 @@
 2. 
 3. 
 
-### Times knocked unconscious: 1
+### Times knocked unconscious: 4
 
-1. [[Wild Bill]]
-2. 
-3. 
+### Unconsciousness Ranking
 
-### Unonsciousness Ranking
-
-1. [[Wild Bill]]: 1
-2. 
-3. 
+1. [[Gambit]]: 2
+2. [[Wild Bill]]: 1
+3. [[Elias Blackwood|Eli]]: 1
 4. 
 5. 
 6. 
 7. 
+8. 
 
 ### Deaths Ranking
 
