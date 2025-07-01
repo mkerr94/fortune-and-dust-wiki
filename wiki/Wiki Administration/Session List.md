@@ -16,3 +16,7 @@
 - [[wiki/The Adventure So Far/Session 13.md|Session 13]]
 - [[wiki/The Adventure So Far/Session 14.md|Session 14]]
 - [[wiki/The Adventure So Far/Session 15.md|Session 15]]
+- [[wiki/The Adventure So Far/Session 16.md|Session 16]]
+- [[wiki/The Adventure So Far/Session 17.md|Session 17]]
+- [[wiki/The Adventure So Far/Session 18.md|Session 18]]
+- [[wiki/The Adventure So Far/Session 19.md|Session 19]]

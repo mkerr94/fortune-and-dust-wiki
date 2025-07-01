@@ -1,6 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "showRibbon": true,
   "promptDelete": false,
   "attachmentFolderPath": "assets"
 }
