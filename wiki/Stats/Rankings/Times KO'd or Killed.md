@@ -7,6 +7,10 @@
 2. [[Gambit]]: 2
 3. [[Amotti]]: 1
 4. [[Elias Blackwood|Eli]]: 1
+5. [[Caeldrid Àrmann an Gealach|Caeldrid]]: 1
+### Times knocked unconscious: 7
+
+
 
 ### Deaths: 0
 
@@ -14,7 +18,7 @@
 2. 
 3. 
 
-### Times knocked unconscious: 4
+
 
 
 ### Deaths Ranking

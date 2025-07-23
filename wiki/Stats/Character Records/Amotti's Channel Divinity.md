@@ -1,6 +1,6 @@
 ### Channel Divinity
 
-### Total number of Channel Divinity Casts: 4
+### Total number of Channel Divinity Casts: 5
 
 **Session 1**
 
@@ -17,3 +17,7 @@
 **Session 13**
 	
 	1. Channel Divinity: Twilight Sanctuary - The Furnace Spider
+
+**Session 23**
+	
+	1. Channel Divinity: Twilight Sanctuary - Jessie Lawrence
