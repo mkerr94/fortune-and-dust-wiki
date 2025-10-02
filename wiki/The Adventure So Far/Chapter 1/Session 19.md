@@ -26,7 +26,7 @@ intro-song: "WWE: The Time Is Now (John Cena) - WWE, John Cena, Tha Trademarc"
 
 >*"So much has already happened since Jeb went missing. Pa and I told him about Ma last night... and Whip too. He didn't say much, he just kind of nodded as if he already knew... somehow. He's gone to the stables to check on the horses, I want to go to him but I just think we need to let him be for a little while..."*
 
-Apologising for her distractedness, Hattie invites the Players for dinner that evening with herself, [[Sam Clayborn|Sam]] and [[Jedediah ‘Jeb’ Clayborn|Jeb]] – as small thanks for their part in Jeb's finding. Before leaving the Players to their business, Hattie issues one last humble request of them.
+Apologising for her distractedness, Hattie invites the Players for dinner that evening with herself, [[Sam Clayborn|Sam]] and [[Jebediah ‘Jeb’ Clayborn|Jeb]] – as small thanks for their part in Jeb's finding. Before leaving the Players to their business, Hattie issues one last humble request of them.
 
 >*"One more thing, if you'll permit me to say it. Ignatius has done so much for this place, we owe it all to him, Thomias and Evangeline. Whatever he may have done, whatever kind of trouble he might be in... I think he deserves our forgiveness."*
 

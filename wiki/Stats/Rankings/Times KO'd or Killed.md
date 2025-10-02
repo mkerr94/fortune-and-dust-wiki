@@ -1,7 +1,6 @@
 #stats 
-### *Insert Group Name* - Deaths and Knockouts
 
-### Unonsciousness Ranking
+### Unconsciousness Ranking
 
 1. [[Wild Bill]]: 2
 2. [[Gambit]]: 2

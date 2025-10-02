@@ -20,6 +20,8 @@ During his time with the Players in Session One, Thomias reveals pyromantic magi
 
 In [[Session 5]], [[Sel]] experiences a strange telepathic connection with Thomias after attempting to contact him with Message while the halfling was still recovering and unconscious in [[Doc Lawrence's Surgery]]. In a vision, Sel sees through Thomias eyes a moment lost in time, during which [[Issy]], Thomias and [[Ignatius 'Nate' Barnett|Nate]] and [[Evangeline Barnett]] share a cup of tea on Issy's porch while construction takes place around them.
 
+Following the events leading to the death of [[Jessie 'Doc' Lawrence|Jessie Lawrence]], Thomias assumes management of the Barnett-Blake Ironworks from Ignatius and Evangeline Barnett and becomes de facto mayor of [[Clement's Hollow]].
+
 
 # Relationships
 

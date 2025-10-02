@@ -6,7 +6,7 @@ const query = `TABLE file.mtime as "Last Modified"
 FROM "wiki"
 WHERE file.name != "Recently Updated" AND file.name != "Recently Created"
 SORT file.mtime DESC
-LIMIT 10`;
+LIMIT 15`;
 
 const fileToOverwrite = tp.file.find_tfile(fileName);
 const queryOutput = await dataViewApi.queryMarkdown(query);

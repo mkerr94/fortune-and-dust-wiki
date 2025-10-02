@@ -1,6 +1,7 @@
 ---
 aliases:
   - Jeb
+  - Jebediah Clayborn
 ---
 #people #npc #clements-hollow 
 
@@ -15,6 +16,8 @@ During the events of [[Session 5]], [[Hattie Clayborn]] explains that, the day b
 Jeb and his mother, [[Marie Clayborn|Marie]], were always talking about visiting the city of [[Portumluna]] and taking a trip on the new Vanderbilt Railway.
 
 In [[Session 17]], the players discover an unconscious Jeb in the [[Shrine of the Forest]]. He is revealed to be a skinny boy in his late teens with pale skin and a shock of rough brown hair. He wears worn travelling gear. When inspected by [[Lythara Sunstrider|Lythara]], he has seemingly fatal slash marks across his chest which appear to have been somehow healed.
+
+During [[Session 25]], Jeb is appointed as the new stable master of Clement’s Hollow at the town meeting called by [[Thomias Blake]].
 
 # Relationships
 

@@ -16,11 +16,11 @@ Sel learns more regarding the nature of Evangeline's illness from [[Ignatius 'Na
 
 In [[Session 14]], Sel shares a strange telepathic connection with Evangeline and is able to briefly see through her eyes and control her actions. During this event, Sel realises that Evangeline is pregnant and in great pain. Her body and mind are contorted by her mysterious illness – although her spirit appears to remain defiant. Sel sees that Evangeline is tormented by strange, formless figure of black energy. Through her, Sel is able to fend off the will of this entity for a short while before the connection is lost.
 
+The Players finally meet Evangeline in the flesh at the end of [[Session 24]], where they find her having overcome her sickness and reunite her with her beloved husband, Ignatius
 
 # Roles
 
 Co-founder and owner of the [[The Barnett-Blake Ironworks|Barnett-Blake Ironworks]]. 
-
 
 # Relationships
 

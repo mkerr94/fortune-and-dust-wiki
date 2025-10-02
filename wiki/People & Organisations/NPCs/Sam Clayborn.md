@@ -5,7 +5,7 @@ aliases:
 #people #npc #clements-hollow 
 
 # Overview
-Mentioned during the events of Session 2 to the players by Holden Smith as the father to [[Jedediah ‘Jeb’ Clayborn|Jeb]] and [[Hattie Clayborn]] and husband to [[Marie Clayborn]].
+Mentioned during the events of Session 2 to the players by Holden Smith as the father to [[Jebediah ‘Jeb’ Clayborn|Jeb]] and [[Hattie Clayborn]] and husband to [[Marie Clayborn]].
 
 The players meet Sam during [[Session 5]], while talking with Hattie and [[Holden Smith|Holden]] in the [[Clayborn Inn]], after their encounter with the [[Mutant Lake-Lizards]].
 
@@ -18,4 +18,4 @@ Owner and proprietor of the [[Clayborn Inn]]
 Sam is a short, stocky man with messy sandy-red hair and a similarly coloured beard. He has the weathered face of someone who has earned a living working outside. He wears a checked flannel shirt tucked into tan dungarees and a straw hat.
 
 # Relationships
-Husband of [[Marie Clayborn|Marie]], father of [[Hattie Clayborn|Hattie]] and [[Jedediah ‘Jeb’ Clayborn|Jeb]] Clayborn.
+Husband of [[Marie Clayborn|Marie]], father of [[Hattie Clayborn|Hattie]] and [[Jebediah ‘Jeb’ Clayborn|Jeb]] Clayborn.

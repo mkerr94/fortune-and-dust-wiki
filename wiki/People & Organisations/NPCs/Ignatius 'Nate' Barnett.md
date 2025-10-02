@@ -18,6 +18,8 @@ In [[Session 10]], while investigating the small fishing shack owned by Nate in 
 
 In [[Session 12]], while being held captive by Ignatius, Sel learns that he has been working on refining his pyromantic skills in order to use them to save his wife, [[Evangeline Barnett|Evangeline]], from her mysterious illness.
 
+Ignatius and Evangeline are reunited after [[Jessie 'Doc' Lawrence|Jessie Lawrence]]’s defeat in [[Session 24]], and they embrace as reconciled lovers.
+
 # Relationships
 
 Husband to [[Evangeline Barnett]].
