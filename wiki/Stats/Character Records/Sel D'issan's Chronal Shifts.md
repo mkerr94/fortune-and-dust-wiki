@@ -1,6 +1,7 @@
 ### Chronal Shifts
 
-### Total number of Chronal Shifts: 4
+### Total number of Chronal Shifts: 5
+### Success Rate: 20%
 
 **Session 1**
 
@@ -18,4 +19,8 @@
 **Session 16**
 	
 	1. Charm spell on Ignacious - Sel (Failure)
+
+**Session 23**
+	
+	1. Wisdom Saving Throw - Caeldrid (Failure)
 	

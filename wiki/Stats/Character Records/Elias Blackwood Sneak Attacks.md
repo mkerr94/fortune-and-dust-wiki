@@ -1,6 +1,6 @@
 ### Sneak Attacks
 
-### Total number of Sneak Attacks: 5
+### Total number of Sneak Attacks: 11
 
 **Session 1**
 
@@ -25,4 +25,9 @@
 **Session 14**
 	
 	1. Crossbow Attack vs Furnace Moltlings
+
+
+**Session 24**
 	
+	1. Crossbow Attack vs Jessie Lawrence
+	2. Crossbow Attack vs Jessie Lawrence
