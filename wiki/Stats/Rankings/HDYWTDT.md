@@ -4,14 +4,14 @@
 > The seven words we love to hear.
 
 
-**Total HDYWTDT**: 5
+**Total HDYWTDT**: 6
 
 ## HDYWTDT Leaderboard
 1. [[Wild Bill]]: 2
 2. [[Gambit]]: 1
 3. [[Elias Blackwood]]: 1
 4. [[Amotti]]: 1
-5. [[Caeldrid Àrmann an Gealach|Caeldrid]]: 0
+5. [[Caeldrid Àrmann an Gealach|Caeldrid]]: 1
 6. [[Lythara Sunstrider]]: 0
 7. [[Sel]]: 0
 
@@ -21,3 +21,4 @@
 3. [[Elias Blackwood|Elias]] ([[Session 10]]) [[Lord of the Lake]].
 4. [[Wild Bill]] ([[Session 14]]) [[The Furnace Spider]]
 5. [[Amotti]] ([[Session 24]]) [[Jessie 'Doc' Lawrence|Jessie Lawrence]]
+6. [[Caeldrid Àrmann an Gealach|Caeldrid]] ([[Session 28]]) [[Brez-ak]]
