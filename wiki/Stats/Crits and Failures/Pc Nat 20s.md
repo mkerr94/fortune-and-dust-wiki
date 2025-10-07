@@ -1,7 +1,7 @@
 #stats
 
 > [!important] Total Player-Character Nat 20's
-> **44**
+> **50**
 
 # Nat 20 Leaderboard
 
@@ -9,11 +9,11 @@
 | ---- | ---------------------------------------- | ----- | --- |
 | 1    | [[Elias Blackwood\|Elias]]               | $11$  |     |
 | 2    | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | $9$   |     |
-| 3    | [[Amotti]]                               | $7$   |     |
-| 4    | [[Sel]]                                  | $7$   |     |
-| 5    | [[Lythara Sunstrider\|Lythara]]          | $5$   |     |
-| 6    | [[Wild Bill]]                            | $2$   |     |
-| 7    | [[Gambit]]                               | $2$   |     |
+| 3    | [[Sel]]                                  | $9$   |     |
+| 4    | [[Amotti]]                               | $7$   |     |
+| 5    | [[Lythara Sunstrider\|Lythara]]          | $6$   |     |
+| 6    | [[Gambit]]                               | $4$   |     |
+| 7    | [[Wild Bill]]                            | $3$   |     |
 | 8    | [[Pastor Jeremiah\|Jeremiah]]            | 1     |     |
 
 
@@ -60,3 +60,10 @@
 | [[Elias Blackwood\|Eli]]                 | 28             | Insight                       |
 | [[Gambit]]                               | 28             | Dextery                       |
 | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | 28             | Attack                        |
+| [[Wild Bill]]                            | 29             | Perception                    |
+| [[Gambit]]                               | 29             | Attack                        |
+| [[Gambit]]                               | 29             | Attack                        |
+| [[Sel]]                                  | 29             | Strength Saving Throw         |
+| [[Sel]]                                  | 29             | Strength Saving throw         |
+| [[Lythara Sunstrider\|Lythara]]          | 29             | Attack                        |
+|                                          |                |                               |

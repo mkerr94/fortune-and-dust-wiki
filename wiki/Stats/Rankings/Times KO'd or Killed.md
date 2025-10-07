@@ -7,7 +7,8 @@
 3. [[Amotti]]: 1
 4. [[Elias Blackwood|Eli]]: 1
 5. [[Caeldrid Àrmann an Gealach|Caeldrid]]: 1
-### Times knocked unconscious: 7
+6. [[Sel]]: 1
+### Times knocked unconscious: 8
 
 
 
