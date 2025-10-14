@@ -1,7 +1,7 @@
 #stats 
 
 > [!important] Total Dungeon Master Nat 20's
-> **10**
+> **11**
 
 | Non Playable Character                     | Session Number | Skill Check            |     |
 | ------------------------------------------ | -------------- | ---------------------- | --- |
@@ -15,4 +15,4 @@
 | [[Magnolia 'Old Mags' Aurix\|Old Mags]]    | 23             | Attack                 |     |
 | [[Jessie 'Doc' Lawrence\|Jessie Lawrence]] | 24             | Wisdom Saving Throw    |     |
 | [[Brez-ak]]                                | 28             | Initiative             |     |
-|                                            |                |                        |     |
+| [[Chronovore]]                             | 30             | Attack                 |     |

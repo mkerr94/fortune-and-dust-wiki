@@ -4,11 +4,11 @@
 
 1. [[Wild Bill]]: 2
 2. [[Gambit]]: 2
-3. [[Amotti]]: 1
+3. [[Amotti]]: 2
 4. [[Elias Blackwood|Eli]]: 1
 5. [[Caeldrid Àrmann an Gealach|Caeldrid]]: 1
 6. [[Sel]]: 1
-### Times knocked unconscious: 8
+### Times knocked unconscious: 9
 
 
 

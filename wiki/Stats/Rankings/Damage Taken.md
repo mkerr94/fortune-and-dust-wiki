@@ -1,10 +1,10 @@
 #stats 
 
-**Group Total Damage Taken: 797**
+**Group Total Damage Taken: 874**
 
 | Player             | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill | Jermiah |
 | ------------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | ------- |
-| Total Damage Taken | 121    | 161      | 78    | 112    | 114     | 70          | 121       | 20      |
+| Total Damage Taken | 159    | 161      | 78    | 112    | 153     | 70          | 121       | 20      |
 
 
 ### Damage Taken Ranking
@@ -24,9 +24,9 @@
 | ------------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | ------- |
 | Total Damage Taken | 113    | 161      | 78    | 112    | 114     | 28          | 121       | 20      |
 
-**Group Chapter 2 Total Damage Taken: 50**
+**Group Chapter 2 Total Damage Taken: 127**
 
 | Player             | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill | Jermiah |
 | ------------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | ------- |
-| Total Damage Taken | 8      | 0        | 0     | 0      | 0       | 42          | 0         | 0       |
+| Total Damage Taken | 46     | 0        | 0     |        | 39      | 42          | 0         | 0       |
 
