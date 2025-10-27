@@ -1,7 +1,7 @@
 ### Chronal Shifts
 
-### Total number of Chronal Shifts: 5
-### Success Rate: 20%
+### Total number of Chronal Shifts: 7
+### Success Rate: 28.57%
 
 **Session 1**
 
@@ -23,4 +23,9 @@
 **Session 23**
 	
 	1. Wisdom Saving Throw - Caeldrid (Failure)
+
+**Session 28**
 	
+	1. Strength Saving Throw - Sel (Failure)
+	2. Brez-ak Attack Roll - Caeldrid (Success)
+

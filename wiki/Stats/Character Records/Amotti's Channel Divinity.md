@@ -21,3 +21,7 @@
 **Session 23**
 	
 	1. Channel Divinity: Twilight Sanctuary - Jessie Lawrence
+
+**Session 28**
+	
+	1. Channel Divinity: Twilight Sanctuary - Brez-ak
