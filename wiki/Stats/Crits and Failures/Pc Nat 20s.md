@@ -1,19 +1,19 @@
 #stats
 
 > [!important] Total Player-Character Nat 20's
-> **53**
+> **58**
 
 # Nat 20 Leaderboard
 
 | Rank | Player                                   | Count |     |
 | ---- | ---------------------------------------- | ----- | --- |
-| 1    | [[Elias Blackwood\|Elias]]               | $11$  |     |
-| 2    | [[Sel]]<br>                              | $10$  |     |
+| 1    | [[Elias Blackwood\|Elias]]               | $13$  |     |
+| 2    | [[Sel]]<br>                              | $11$  |     |
 | 3    | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | $9$   |     |
-| 4    | [[Amotti]]                               | $7$   |     |
+| 4    | [[Amotti]]                               | $8$   |     |
 | 5    | [[Lythara Sunstrider\|Lythara]]          | $6$   |     |
 | 6    | [[Wild Bill]]                            | $5$   |     |
-| 7    | [[Gambit]]                               | $4$   |     |
+| 7    | [[Gambit]]                               | $5$   |     |
 | 8    | [[Pastor Jeremiah\|Jeremiah]]            | 1     |     |
 
 
@@ -69,3 +69,8 @@
 | [[Sel]]                                  | 30             | History                       |
 | [[Wild Bill]]                            | 30             | History                       |
 | [[Wild Bill]]                            | 30             | Attack                        |
+| [[Elias Blackwood\|Eli]]                 | 31             | Perception                    |
+| [[Elias Blackwood\|Eli]]                 | 33             | Investigation                 |
+| [[Sel]]                                  | 33             | Deception                     |
+| [[Amotti]]                               | 33             | Investigation                 |
+| [[Gambit]]                               | 34             | Perception                    |

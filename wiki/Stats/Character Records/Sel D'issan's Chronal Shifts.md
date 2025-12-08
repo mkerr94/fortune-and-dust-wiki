@@ -1,7 +1,7 @@
 ### Chronal Shifts
 
-### Total number of Chronal Shifts: 7
-### Success Rate: 28.57%
+### Total number of Chronal Shifts: 9
+### Success Rate: 22.2%
 
 **Session 1**
 
@@ -28,4 +28,8 @@
 	
 	1. Strength Saving Throw - Sel (Failure)
 	2. Brez-ak Attack Roll - Caeldrid (Success)
+
+**Session 31**
+	
+	1. Unknown Roll - Caeldrid (Failure)
 
