@@ -50,11 +50,27 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 - [[Session 24]]
 - [[Session 25]]
 
-## Chapter 2
+## Chapter 2 - Those Our Swords Protect
 
+- [[Chapter 2 Prologue - My Brothers Are My Hilt]]
 - [[Session 26]]
 - [[Session 27]]
 - [[Session 28]]
+- [[Session 29]]
+- [[Session 30]]
+- [[Session 31]]
+- [[Session 32]]
+- [[Session 33]]
+- [[Session 34]]
+- [[Session 35]]
+- [[Session 36]]
+- [[Session 37]]
+- [[Session 38]]
+- [[Session 39]]
+- [[Session 40]]
+
+## Chapter 3 - ?
+
 
 # The Players
 

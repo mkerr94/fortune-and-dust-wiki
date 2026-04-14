@@ -1,6 +1,6 @@
-#location #alcadena 
+#location #alcadena #place 
 
+---
 # Overview
-Capital city of [[Alcadeña]].
 
-Seat of power of the [[Alcadenan Senate]].
+Capital city of [[Alcadeña]]. Seat of power of the [[Alcadenan Senate]].

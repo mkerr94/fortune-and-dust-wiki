@@ -19,3 +19,7 @@ Jeremiah’s faith is described as old, unknowable, and coloured with melancholy
 The Players meet Jeremiah in [[The Dustlands]] beyond the edge of [[Lenity Woods]], during [[Session 26]]. Jeremiah, a travelling wagon driver, is looking for his friend, Brez-ak, whom he believes to have been kidnapped by local creatures known as [[The Dust-dwellers]].
 
 Jeremiah travels on a wagon drawn by his horse, Charon. The Players find that the wagon is filled with various sizes of glass jar. Each one contains one or more glowing green fireflies.
+
+In [[Session 29]], the Players witness Jeremiah praying at a faded shrine in the Dust-land canyons marked with the symbol of the entwined catfish. Later, [[Amotti]] has an altercation with Jeremiah after attempting to steal one of his many firefly jars. Reacting calmly but with a strange otherworldliness, Jeremiah describes the fireflies as ‘lost’ and states that he feels it is his duty to help them find their way. When Amotti persists in trying to steal one of the jars, Jeremiah is able to halt him by drawing a firefly from Amotti himself – paralysing him. He revives Amotti with a warm touch of his hand and wishes him luck in finding his own way.
+
+The Players meet Pastor Jeremiah again after he arrives in [[Fortuna Outpost]] in [[Session 33]]. They gather that Jeremiah is a frequent visitor there, stopping to trade goods with the soldiers on his travels throughout the Dust-lands.

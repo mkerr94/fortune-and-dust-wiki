@@ -1,6 +1,7 @@
 #deity
 
 # Overview
+
 Deity-like figure revered by some NPCs encountered in [[Clement's Hollow]].
 
 Depicted as a young, male dwarf holding a crossed pick-axe and shovel.

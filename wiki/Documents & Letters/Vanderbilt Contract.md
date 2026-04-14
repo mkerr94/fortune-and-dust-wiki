@@ -10,7 +10,7 @@ The bearer and undersigned so agrees to fulfil the following tasks within the la
 
 - The safe return of Ms Eva Vanderbilt to the home and estate of [[Cornelius Vanderbilt]].
 
-- Any reasonable investigation and inquiry in the civilised settlements of Alcadena to this effect, within the just laws and good citizenship granted by the Protectorate of the [[Alcadenan Senate]], may the Watchful Sword of the Warrior allow.
+- Any reasonable investigation and inquiry in the civilised settlements of Alcadena to this effect, within the just laws and good citizenship granted by the Protectorate of the [[Alcadenan Senate]], may the Watchful Sword of [[the Warrior]] allow.
 
 Should the bearer and undersigned achieve and fulfil this remit to the satisfaction of the Vanderbilt Rail Co. and Cornelius Vanderbilt, they shall be granted the following reward and released from the terms of this contract:
 

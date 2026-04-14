@@ -22,4 +22,8 @@ Depiction of the of his symbol:
 
 The soldier shocks the group when he suddenly wakes and utters the following incoherent speech before mysteriously disappearing altogether:
 
-> *"Six times. I am the watchful sword of the Warrior, my brothers are my hilt. Six times. None shall trespass against us or those our swords protect. Six times. There is no protection from her, there's no relief. Six times. She sees us all, inside and out. Insides, out. Six times. A watcher in the dark. Six times. Warrior forgive them, forgive me..."*
+> *"Six times. I am the watchful sword of [[the Warrior]], my brothers are my hilt. Six times. None shall trespass against us or those our swords protect. Six times. There is no protection from her, there's no relief. Six times. She sees us all, inside and out. Insides, out. Six times. A watcher in the dark. Six times. Warrior forgive them, forgive me..."*
+
+# Identity
+
+During [[Session 33]], the players learned the identity of the soldier: [[Marius Flint]].

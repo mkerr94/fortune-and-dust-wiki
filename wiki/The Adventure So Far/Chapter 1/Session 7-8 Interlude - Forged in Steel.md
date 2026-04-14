@@ -44,7 +44,7 @@ Ignatius placed his hands on the window ledge, the wood cold to the touch. He ga
 
 *A son of fire in a city of water.*
 
-Beyond the outskirts of Samosetia, to his right, the Whispering Mountains towered over even the tallest structure, casting their long shadow over the buildings below. To the West, in the farthest light of the setting sun, he could just make out the dark patch of The Quagmire, the Marismentan slum clinging to the city-limits like a limpet to a rock.
+Beyond the outskirts of Samosetia, to his right, [[the Whispering Mountains]] towered over even the tallest structure, casting their long shadow over the buildings below. To the West, in the farthest light of the setting sun, he could just make out the dark patch of The Quagmire, the Marismentan slum clinging to the city-limits like a limpet to a rock.
 
 *How far you’ve come already...*
 

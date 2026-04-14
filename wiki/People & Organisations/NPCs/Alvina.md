@@ -1,4 +1,8 @@
-#clements-hollow #npc #people 
+#clements-hollow #npc #people #chapter1 
+
+---
+
+# Overview
 
 Large Lenity wildcat and companion to [[Holden Smith]].
 

@@ -4,14 +4,16 @@ aliases:
 ---
 #location #alcadena 
 
+---
 # Overview
+
 Region or state of [[Novedeña]] in which the story of 'Fortune and Dust' takes place.
 
 In New [[Novedeña|Novedeñan]] Common, the name 'Alcadena' means "the chained state".
 
 The climate throughout the bulk of the Alcadena is characterised by dry, unforgiving heat (save for a few notable exceptions in areas near to or surrounding bodies of water such as [[Lake Lenity]], Lake Azura, the swamp of Aguavena and the Almario River). This dry climate and endemic soil infertility has led to food shortages in the state.
 
-Alcadena is naturally fortified to the North and South by the Whispering Mountains and Almario River, respectively. Unexplored frontier-land lies to the West and the Sea of Swords to the East.
+Alcadena is naturally fortified to the North and South by [[The Whispering Mountains]] and Almario River, respectively. Unexplored frontier-land lies to the West and the Sea of Swords to the East.
 
 The state is governed by the [[Alcadenan Senate]], whose seat of power lies in the capital city of [[Samosetia]].
 
