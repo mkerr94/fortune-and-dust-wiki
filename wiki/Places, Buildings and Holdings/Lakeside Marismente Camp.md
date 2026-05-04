@@ -1,5 +1,8 @@
 #location #lake-lenity #clements-hollow 
 
+---
+# Overview
+
 Settlement on the shores of [[Lake Lenity]] occupied by a lakeside tribe of [[Marismente]].
 
 Composed of several hexagonal tents of wooden-posting and woven bark/reeds, it has a central fire-pit serving as the main communal area.

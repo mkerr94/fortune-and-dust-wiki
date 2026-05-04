@@ -6,7 +6,7 @@ date-played: 2026-03-19
 inspiring-player: "[[Wild Bill]]"
 intro-song: That Horse That You Rode In On - Rob Heron & the Teapad Orchestra
 ---
-#chapter1 
+#chapter2
 # Frontmatter
 
 > [!info] Date Played

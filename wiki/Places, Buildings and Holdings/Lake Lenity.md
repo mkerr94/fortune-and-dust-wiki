@@ -1,5 +1,8 @@
 #location #clements-hollow #lenity-woods #lake-lenity 
 
+---
+# Overview
+
 Lake situated near the town of [[Clement's Hollow]].
 
 Produces lake-fog which permeates the town, its outskirts and the nearby Lenity Woods.

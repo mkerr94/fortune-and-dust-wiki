@@ -14,8 +14,15 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 
 # Latest Wiki Updates
 
+## Latest Session
+
+**[[Session 42]]**
+
+## Latest Created Pages
+
 ![[Recently Created]]
 
+## Latest Updated Pages
 
 ![[Recently Updated]]
 
@@ -69,7 +76,10 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 - [[Session 39]]
 - [[Session 40]]
 
-## Chapter 3 - ?
+## Chapter 3 - They Remember the Dark
+
+- [[Session 41]]
+- [[Session 42]]
 
 
 # The Players

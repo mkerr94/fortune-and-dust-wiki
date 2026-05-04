@@ -2,6 +2,7 @@
 
 ---
 # Overview
+
 Town situated close to [[Lake Lenity]] and [[Lenity Woods]]. First destination of the players after departing [[Portumluna]], under instruction from [[Vanderbilt's Emissary]].
 
 At the outset of the story, the Players travel to Clement's Hollow from [[Portumluna]] in the company of [[Thomias Blake]], in a carriage driven by [[Whip]]. They are heading for the town under the instruction of [[Vanderbilt's Emissary]] after learning that [[Marismente|Marismentan]] militia have recently been spotted nearby.
@@ -13,4 +14,5 @@ Clement’s Hollow is constructed inside a wall made of strong timber and iron. 
 Home to: [[The Barnett-Blake Ironworks]], [[Doc Lawrence's Surgery]]; the [[Clayborn Inn]]; [[Tryst's General Store]].
 
 # Map
+
 ![[clements-hollow-map.jpeg]]

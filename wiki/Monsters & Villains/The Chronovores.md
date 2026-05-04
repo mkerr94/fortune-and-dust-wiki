@@ -1,8 +1,9 @@
 #monster #thedustlands #chapter2 
 
+---
 # Overview
 
-Encountered by the players during [[Session 29]]. The Players observe several Chronovores flying in and out of the Dust-storm in graceful arcs, seemingly sweeping its surface and flexing their beaks. Upon the Players arrival, they break this behaviour and target Sel with a frenzy until he is able to pass through the storm barrier.
+Encountered by the players during [[Session 29]]. The Players observe several Chronovores flying in and out of [[the Dust-storm]] in graceful arcs, seemingly sweeping its surface and flexing their beaks. Upon the Players arrival, they break this behaviour and target Sel with a frenzy until he is able to pass through the storm barrier.
 
 # Description
 

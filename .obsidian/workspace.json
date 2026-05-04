@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Wiki Administration/Recently Created.md",
+                "file": "wiki/Campaign Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recently Created"
+              "title": "Campaign Home"
             }
           },
           {
-            "id": "c48ab819585f0ef7",
+            "id": "1af79b97ef5f9723",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "wiki/Wiki Administration/Recently Updated.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Recently Updated"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/Campaign Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Campaign Home"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/Wiki Administration/Recently Created.md",
+                "file": "wiki/Campaign Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recently Created"
+              "title": "Outline of Campaign Home"
             }
           },
           {
@@ -189,7 +191,8 @@
               "title": "File properties for Recently Created"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,34 +213,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c48ab819585f0ef7",
+  "active": "3d024183d5be5ac3",
   "lastOpenFiles": [
+    "wiki/The Adventure So Far/Chapter 3/Session 42.md",
+    "wiki/The Adventure So Far/Chapter 3/Session 41.md",
     "wiki/Wiki Administration/Recently Updated.md",
-    "wiki/Places, Buildings and Holdings/Underton.md",
-    "wiki/People & Organisations/Groups & Organisations/The Rogue Marismente.md",
-    "wiki/The Adventure So Far/Chapter 2/Session 40.md",
-    "wiki/People & Organisations/Groups & Organisations/The Twilight Keepers.md",
-    "wiki/People & Organisations/Groups & Organisations/The Barnett-Blake Ironworks.md",
-    "wiki/People & Organisations/Groups & Organisations/The Forach-Erak-Naek.md",
-    "wiki/People & Organisations/Groups & Organisations/The Protectorate.md",
-    "wiki/Places, Buildings and Holdings/The Coal Track.md",
-    "wiki/Places, Buildings and Holdings/Doc Lawrence's Surgery.md",
-    "wiki/Places, Buildings and Holdings/Clement's Hollow.md",
-    "wiki/Places, Buildings and Holdings/Fortuna Outpost.md",
-    "wiki/Places, Buildings and Holdings/Tryst's General Store.md",
-    "wiki/Places, Buildings and Holdings/Waterdeep.md",
-    "wiki/Places, Buildings and Holdings/The Whispering Mountains.md",
-    "wiki/Places, Buildings and Holdings/The Stables.md",
-    "wiki/Places, Buildings and Holdings/The Dustlands.md",
-    "wiki/Places, Buildings and Holdings/Orsobia.md",
-    "wiki/Places, Buildings and Holdings/Portumluna.md",
+    "wiki/Wiki Administration/Recently Created.md",
+    "wiki/Campaign Home.md",
+    "wiki/Places, Buildings and Holdings/The Abandoned Gatehouse.md",
+    "wiki/Monsters & Villains/The Coyote Pack.md",
+    "wiki/Magical Items/Bottle of Sunlight.md",
+    "wiki/Monsters & Villains/The Chronovores.md",
     "wiki/Places, Buildings and Holdings/Clayborn Inn.md",
-    "wiki/Places, Buildings and Holdings/Lake Lenity Fishing Shack.md",
+    "wiki/Places, Buildings and Holdings/The Dust-storm.md",
+    "wiki/Places, Buildings and Holdings/The Coal Track.md",
     "wiki/Places, Buildings and Holdings/Lenity Woods.md",
     "wiki/Places, Buildings and Holdings/New World.md",
-    "wiki/The Adventure So Far/Chapter 2/Session 39.md",
-    "wiki/Campaign Home.md",
-    "wiki/Wiki Administration/Session List.md",
+    "wiki/Places, Buildings and Holdings/Lakeside Marismente Camp.md",
+    "wiki/Places, Buildings and Holdings/Lake Lenity Fishing Shack.md",
+    "wiki/Places, Buildings and Holdings/Lake Lenity.md",
+    "wiki/Places, Buildings and Holdings/Clement's Hollow Outskirts.md",
+    "wiki/Places, Buildings and Holdings/Clement's Hollow.md",
+    "wiki/Places, Buildings and Holdings/Alcadeña.md",
+    "wiki/Places, Buildings and Holdings/Doc Lawrence's Surgery.md",
+    "wiki/Places, Buildings and Holdings/Fortuna Outpost.md",
+    "wiki/Places, Buildings and Holdings/The Dustlands.md",
+    "wiki/Places, Buildings and Holdings/Samosetia.md",
+    "wiki/Places, Buildings and Holdings/Temple of the Craftsman.md",
+    "wiki/Places, Buildings and Holdings/Shrine of the Forest.md",
+    "wiki/The Adventure So Far/Chapter 3",
     "wiki/The Adventure So Far/Chapter 2/Untitled",
     "publish.css",
     "publish.css.minimal",
@@ -249,7 +253,6 @@
     "public/Fortune & Dust/People & Organisations/Player Characters",
     "public/Fortune & Dust/People & Organisations",
     "public/Fortune & Dust",
-    "public",
     "assets/the_chronovores.png",
     "assets/staff_of_water_binding.png",
     "assets/dust_dwellers.png",

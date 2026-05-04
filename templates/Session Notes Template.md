@@ -6,7 +6,7 @@ date-played:
 inspiring-player: 
 intro-song:
 ---
-#chapter1 
+#chapter3
 # Frontmatter
 
 > [!info] Date Played
@@ -16,7 +16,9 @@ intro-song:
 > Too Drunk to Fuck – Dead Kennedys
 
 > [!success] Inspiring Player
-> [[Caeldrid Àrmann an Gealach|Caeldrid]]
+
+> [!example] Players in Attendance
+> [[Amotti]], [[wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach|Caeldrid]], [[Elias Blackwood|Eli]], [[Gambit]], [[Lythara Sunstrider|Lythara]], [[Sel]], [[Wild Bill]]
 
 ---
 # The Events of Session x

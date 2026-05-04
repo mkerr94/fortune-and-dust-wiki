@@ -1,6 +1,11 @@
 
 | File                                                                                                 | Creation Date               |
 | ---------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[wiki/Magical Items/Bottle of Sunlight.md\|Bottle of Sunlight]]                                     | 4:17 PM - May 04, 2026      |
+| [[wiki/Monsters & Villains/The Coyote Pack.md\|The Coyote Pack]]                                     | 4:16 PM - May 04, 2026      |
+| [[wiki/Places, Buildings and Holdings/The Abandoned Gatehouse.md\|The Abandoned Gatehouse]]          | 4:12 PM - May 04, 2026      |
+| [[wiki/The Adventure So Far/Chapter 3/Session 42.md\|Session 42]]                                    | 4:06 PM - May 04, 2026      |
+| [[wiki/The Adventure So Far/Chapter 3/Session 41.md\|Session 41]]                                    | 6:01 PM - April 27, 2026    |
 | [[wiki/People & Organisations/Groups & Organisations/The Rogue Marismente.md\|The Rogue Marismente]] | 5:33 PM - March 30, 2026    |
 | [[wiki/Places, Buildings and Holdings/The Coal Track.md\|The Coal Track]]                            | 5:31 PM - March 30, 2026    |
 | [[wiki/The Adventure So Far/Chapter 2/Session 40.md\|Session 40]]                                    | 5:18 PM - March 30, 2026    |
@@ -11,8 +16,3 @@
 | [[wiki/Monsters & Villains/The Infection.md\|The Infection]]                                         | 6:00 PM - January 19, 2026  |
 | [[wiki/People & Organisations/NPCs/Morris 'Ladle' Jupp.md\|Morris 'Ladle' Jupp]]                     | 5:59 PM - January 19, 2026  |
 | [[wiki/The Adventure So Far/Chapter 2/Session 36.md\|Session 36]]                                    | 5:39 PM - January 19, 2026  |
-| [[wiki/The Adventure So Far/Chapter 2/Session 35.md\|Session 35]]                                    | 5:39 PM - January 19, 2026  |
-| [[wiki/People & Organisations/Groups & Organisations/The Forach-Erak-Naek.md\|The Forach-Erak-Naek]] | 5:37 PM - December 15, 2025 |
-| [[wiki/People & Organisations/Groups & Organisations/The Twilight Keepers.md\|The Twilight Keepers]] | 5:34 PM - December 15, 2025 |
-| [[wiki/People & Organisations/NPCs/Ladle.md\|Ladle]]                                                 | 5:32 PM - December 15, 2025 |
-| [[wiki/Alcadenan Historia/Deities/The Warrior.md\|The Warrior]]                                      | 5:30 PM - December 15, 2025 |
