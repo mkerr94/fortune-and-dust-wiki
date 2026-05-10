@@ -32,8 +32,6 @@
 
 [[Wild Bill Misfires]]
 
-[[Elias Blackwood Sneak Attacks]]
-
 [[Sel D'issan's Chronal Shifts]]
 
 [[Amotti's Channel Divinity]]

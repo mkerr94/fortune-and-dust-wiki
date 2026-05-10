@@ -1,18 +1,18 @@
 #stats
 
 > [!important] Total Player-Character Nat 1's
-> **18**
+> **24**
 
 # Nat 1 Leaderboard
 
 | Rank | Player                                   | Count |
 | ---- | ---------------------------------------- | ----- |
-| 1    | [[Wild Bill]]                            | $5$   |
+| 1    | [[Wild Bill]]                            | $9$   |
 | 2    | [[Elias Blackwood\|Eli]]                 | $4$   |
 | 3    | [[Amotti]]                               | $3$   |
-| 4    | [[Gambit]]                               | $2$   |
-| 5    | [[Sel]]                                  | $2$   |
-| 6    | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | $2$   |
+| 4    | [[Sel]]                                  | $3$   |
+| 5    | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | $3$   |
+| 6    | [[Gambit]]                               | $2$   |
 | 7    | [[Lythara Sunstrider\|Lythara]]          | $0$   |
 
 # Nat 1 Table
@@ -33,4 +33,9 @@
 | [[Wild Bill]]                            | 27             | Survival            |     |
 | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | 28             | Attack              |     |
 | [[Amotti]]                               | 29             | Perception          |     |
-|                                          |                |                     |     |
+| [[Sel]]                                  | 35             | Attack              |     |
+| [[Wild Bill]]                            | 35             | Attack              |     |
+| [[Caeldrid Àrmann an Gealach\|Caeldrid]] | 37             | Attack              |     |
+| [[Wild Bill]]                            | 38             | Perception          |     |
+| [[Wild Bill]]                            | 41             | Perception          |     |
+| [[Wild Bill]]                            | 41             | Survival            |     |

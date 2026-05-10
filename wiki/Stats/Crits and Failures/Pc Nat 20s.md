@@ -1,19 +1,19 @@
 #stats
 
 > [!important] Total Player-Character Nat 20's
-> **58**
+> **68**
 
 # Nat 20 Leaderboard
 
 | Rank | Player                                   | Count |     |
 | ---- | ---------------------------------------- | ----- | --- |
-| 1    | [[Elias Blackwood\|Elias]]               | $13$  |     |
+| 1    | [[Elias Blackwood\|Elias]]               | $17$  |     |
 | 2    | [[Sel]]<br>                              | $11$  |     |
 | 3    | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | $9$   |     |
 | 4    | [[Amotti]]                               | $8$   |     |
-| 5    | [[Lythara Sunstrider\|Lythara]]          | $6$   |     |
-| 6    | [[Wild Bill]]                            | $5$   |     |
-| 7    | [[Gambit]]                               | $5$   |     |
+| 5    | [[Lythara Sunstrider\|Lythara]]          | $8$   |     |
+| 6    | [[Wild Bill]]                            | $8$   |     |
+| 7    | [[Gambit]]                               | $6$   |     |
 | 8    | [[Pastor Jeremiah\|Jeremiah]]            | 1     |     |
 
 
@@ -74,3 +74,13 @@
 | [[Sel]]                                  | 33             | Deception                     |
 | [[Amotti]]                               | 33             | Investigation                 |
 | [[Gambit]]                               | 34             | Perception                    |
+| [[Lythara Sunstrider]]                   | 36             | Attack                        |
+| [[Gambit]]                               | 38             | Insight                       |
+| [[Elias Blackwood\|Eli]]                 | 41             | Perception                    |
+| [[Elias Blackwood\|Eli]]                 | 42             | Strength                      |
+| [[Wild Bill]]                            | 42             | Perception                    |
+| [[Wild Bill]]                            | 42             | Animal Handling               |
+| [[Elias Blackwood\|Eli]]                 | 43             | Attack Roll                   |
+| [[Wild Bill]]                            | 43             | Attack Roll                   |
+| [[Lythara Sunstrider\|Lythara]]          | 43             | Investigation                 |
+| [[Elias Blackwood\|Eli]]                 | 43             | Stealth                       |

@@ -1,17 +1,17 @@
 #stats 
 
 
-**Total Group Total Damage: 1396**
+**Total Group Total Damage: 1933**
 
 | Player       | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill | Jeremiah |
 | ------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | -------- |
-| Total Damage | 181    | 246      | 162   | 205    | 168     | 132         | 204       | 100      |
+| Total Damage | 243    | 406      | 220   | 267    | 235     | 132         | 330       | 100      |
 
 ### Damage Dealt Ranking
 
 1. [[Caeldrid Àrmann an Gealach|Caeldrid]]
-2. [[Gambit]]
-3. [[Wild Bill]]
+2. [[Wild Bill]]
+3. [[Gambit]]
 4. [[Amotti]]
 5. [[Lythara Sunstrider|Lythara]]
 6. [[Elias Blackwood|Eli]]
@@ -27,8 +27,8 @@
 | Total Damage | 130    | 246      | 133   | 93     | 98      | 120         | 135       | 100      |
 
 
-**Total Chapter 2 Group Total Damage: 341**
+**Total Chapter 2 Group Total Damage: 878**
 
 | Player       | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill | Jeremiah |
 | ------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | -------- |
-| Total Damage | 51     |          | 29    | 112    | 68      | 12          | 69        |          |
+| Total Damage | 113    | 160      | 87    | 174    | 137     | 12          | 195       |          |
