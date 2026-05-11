@@ -15,4 +15,5 @@
 | [[Magnolia 'Old Mags' Aurix\|Old Mags]]    | 23             | Attack                 |     |
 | [[Jessie 'Doc' Lawrence\|Jessie Lawrence]] | 24             | Wisdom Saving Throw    |     |
 | [[Brez-ak]]                                | 28             | Initiative             |     |
-| [[Chronovore]]                             | 30             | Attack                 |     |
+| [[The Chronovores]]                        | 30             | Attack                 |     |
+|                                            |                |                        |     |

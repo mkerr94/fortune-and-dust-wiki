@@ -1,6 +1,6 @@
 ### Channel Divinity
 
-### Total number of Channel Divinity Casts: 5
+### Total number of Channel Divinity Casts: 6
 
 **Session 1**
 
@@ -25,3 +25,10 @@
 **Session 28**
 	
 	1. Channel Divinity: Twilight Sanctuary - Brez-ak
+
+**Session 42**
+	
+	1. Channel Divinity: Twilight Sanctuary - Cayotes
+
+
+

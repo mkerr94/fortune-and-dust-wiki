@@ -1,7 +1,7 @@
 ### Chronal Shifts
 
-### Total number of Chronal Shifts: 9
-### Success Rate: 22.2%
+### Total number of Chronal Shifts: 12
+### Success Rate: 25%
 
 **Session 1**
 
@@ -32,4 +32,14 @@
 **Session 31**
 	
 	1. Unknown Roll - Caeldrid (Failure)
+
+**Session 35**
+	
+	1. Charm spell (Failure)
+	2. Persuasion Roll (Success)
+
+**Session 41**
+	
+	1. Thieves tools Roll - Elias (Failure)
+
 
