@@ -16,7 +16,7 @@ intro-song: Bad Guy - Billie Eilish
 > Bad Guy - Billie Eilish
 
 > [!success] Inspiring Player
-> [[Wild Bill]]]
+> [[Wild Bill]]
 
 > [!example] Players in Attendance
 > [[Amotti]], [[wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach|Caeldrid]], [[Elias Blackwood|Eli]], [[Gambit]], [[Lythara Sunstrider|Lythara]], [[Sel]], [[Wild Bill]]

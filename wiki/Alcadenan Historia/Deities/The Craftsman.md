@@ -8,4 +8,6 @@ Depicted as a young, male dwarf holding a crossed pick-axe and shovel.
 
 His symbol, the same crossed pick-axe and shovel set against a prism jewel, is seen in various places around Clement's Hollow but most notably in the [[Temple of the Craftsman]] on the main street and on the door to [[Ignatius 'Nate' Barnett]]'s office in the [[The Barnett-Blake Ironworks|Barnett-Blake Ironworks]].
 
+The Craftsman's symbol is the Crossed Tools.
+
 ![[craftsman-sigil.png| 400]]

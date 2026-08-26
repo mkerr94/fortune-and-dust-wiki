@@ -1,7 +1,6 @@
-#place #chapter2 #thedustlands 
+#place #chapter2 #thedustlands #chapter3 
 
 ---
-
 # Overview
 
 Mining town on the western frontier of [[Alcadeña]].
@@ -14,10 +13,14 @@ In [[Session 35]], [[wiki/People & Organisations/Player Characters/Caeldrid Àrm
 > 
 > *"20th Eleint: Survey Corps report indicates that site of collapse has serendipitously led to the discovery of previously untapped coal seams at the frontier extraction sites. Production has been cleared to continue and output should increase to record levels if new veins prove fruitful."*
 > 
-> *"22nd Eleint: Expansion of newly-tapped seams has uncovered pockets of space within mine that appear to be as a result of a previous, non-authorised excavation. Relics have been found which appear to be Marismentan in origin. Samples have been returned along Coal Track for confirmation and study at Founder's University. Early evidence indicates sites may be of some religious significance. Requesting confirmation that archaeological work may not impede coal extraction."*
+> *"22nd Eleint: Expansion of newly-tapped seams has uncovered pockets of space within mine that appear to be as a result of a previous, non-authorised excavation. Relics have been found which appear to be Marismentan in origin. Samples have been returned along [[The Coal Track|Coal Track]] for confirmation and study at Founder's University. Early evidence indicates sites may be of some religious significance. Requesting confirmation that archaeological work may not impede coal extraction."*
 
 They are also shown a fourth letter, the last before communication from the mining colony ceased, which reads:
 
 > *"WE ARE NOT WHO WE ARE."*
 
 In [[Session 40]], [[Silas Seer|Silas]] explains more about the recent [[The Protectorate|Protectorate]] history with Underton and its potential connection to the [[The Rogue Marismente|rogue Marismentan]] militia. He tells the group that the Protectorate were tracking the Marismentan militia after it was thought they might attack the [[The Barnett-Blake Ironworks|Barnett-Blake Ironworks]] at [[Clement's Hollow]]. They were intercepted outside of Fortuna Outpost, but managed to escape after one of their group stayed behind. He warns the group that this Marismente was unusually powerful, and that the group could be dangerous. Silas believes that [[Captain Josias Bartolomeu|Captain Josias]] suspected them of being behind the faltering of coal shipments from Underton.
+
+The Players arrive in Underton at the end of [[Session 43]]. They find the entrance to the town deserted, save for a strange fire that has been set on the roof of one of the buildings there. Decorations around the town suggest that the townsfolk were in the middle of Highharvestide celebrations (the last moon of Eleint and the beginning of Marpenoth).
+
+[[Wild Bill]] and [[Elias Blackwood|Eli]] discover a horrific scene underneath the welcome posts of the town. The body parts of several people, including some [[The Protectorate|Protectorate]], have been arranged in a ritualistic manner. From a high vantage point, Eli sees that they have been laid in a pattern which crudely resembles the symbol of the twin encircling catfish that [[Rel-se]] first revealed to them as of great importance to the [[Marismente]].

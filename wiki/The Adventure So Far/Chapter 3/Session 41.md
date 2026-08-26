@@ -34,7 +34,7 @@ Amotti argues that he has acted only in the interests of the group, and has save
 
 Silas asks if, despite everything, Amotti still loves his sister. The group fall silent for a spell, his question answered only by the rhythmic rumblings of the wagon and the gentle rustle of the prairie grass around them. Conversation turns to the trail before them, and Silas explains:
 
-> *"This trail was made when the mine was first built, before the Coal Track. The soldiers used  it to bring supplies to [[Underton]]. The path would've been watched, guarded at all times. Look at it now, since the railway, there's barely anything left. And with the mine gone silent, well… who knows what we'll find."*
+> *"This trail was made when the mine was first built, before [[the Coal Track]]. The soldiers used  it to bring supplies to [[Underton]]. The path would've been watched, guarded at all times. Look at it now, since the railway, there's barely anything left. And with the mine gone silent, well… who knows what we'll find."*
 
 Silas then asks, should they meet any of [[The Protectorate]] sent to Underton by [[Captain Josias Bartolomeu|Josias]] on the road, if any of the Players are capable of magically disguising him. The consensus is no, but [[Sel]] offers to turn Silas invisible as a last resort. Amotti also offers help, demonstrating his darkness spell, which obscures everyone's vision and blinds them and the horses to the road ahead. Silas remarks:
 

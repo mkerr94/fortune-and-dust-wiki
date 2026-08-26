@@ -1,3 +1,7 @@
+---
+aliases:
+  - Coal Track
+---
 #location #chapter2 
 
 ---
