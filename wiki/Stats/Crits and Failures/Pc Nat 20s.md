@@ -1,19 +1,19 @@
 #stats
 
 > [!important] Total Player-Character Nat 20's
-> **68**
+> **79**
 
 # Nat 20 Leaderboard
 
 | Rank | Player                                   | Count |     |
 | ---- | ---------------------------------------- | ----- | --- |
-| 1    | [[Elias Blackwood\|Elias]]               | $17$  |     |
+| 1    | [[Elias Blackwood\|Elias]]               | $20$  |     |
 | 2    | [[Sel]]<br>                              | $11$  |     |
 | 3    | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | $9$   |     |
 | 4    | [[Amotti]]                               | $8$   |     |
-| 5    | [[Lythara Sunstrider\|Lythara]]          | $8$   |     |
-| 6    | [[Wild Bill]]                            | $8$   |     |
-| 7    | [[Gambit]]                               | $6$   |     |
+| 5    | [[Lythara Sunstrider\|Lythara]]          | $10$  |     |
+| 6    | [[Wild Bill]]                            | $10$  |     |
+| 7    | [[Gambit]]                               | $10$  |     |
 | 8    | [[Pastor Jeremiah\|Jeremiah]]            | 1     |     |
 
 
@@ -84,3 +84,14 @@
 | [[Wild Bill]]                            | 43             | Attack Roll                   |
 | [[Lythara Sunstrider\|Lythara]]          | 43             | Investigation                 |
 | [[Elias Blackwood\|Eli]]                 | 43             | Stealth                       |
+| [[Elias Blackwood\|Eli]]                 | 44             | Perception                    |
+| [[Wild Bill]]                            | 44             | Perception                    |
+| [[Wild Bill]]                            | 46             | Survival                      |
+| [[Lythara Sunstrider\|Lythara]]          | 47             | Investigation                 |
+| [[Elias Blackwood\|Eli]]                 | 47             | Attack Roll                   |
+| [[Gambit]]                               | 47             | Attack Roll                   |
+| [[Gambit]]                               | 47             | Attack Roll                   |
+| [[Gambit]]                               | 47             | Attack Roll                   |
+| [[Lythara Sunstrider\|Lythara]]          | 48             | Attack Roll                   |
+| [[Gambit]]                               | 48             | Attack Roll                   |
+| [[Elias Blackwood\|Eli]]                 | 49             | Dexterity Saving Throw        |

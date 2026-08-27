@@ -1,19 +1,19 @@
 #stats 
 
-**Group Total Damage Taken: 1071**
+**Group Total Damage Taken: 1388**
 
 | Player             | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill | Jermiah |
 | ------------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | ------- |
-| Total Damage Taken | 195    | 194      | 78    | 152    | 153     | 70          | 209       | 20      |
+| Total Damage Taken | 195    | 324      | 103   | 189    | 233     | 70          | 254       | 20      |
 
 
 ### Damage Taken Ranking
 
-1. [[Wild Bill]]
-2. [[Amotti]]
-3. [[Caeldrid Àrmann an Gealach|Caeldrid]]
-4. [[Lythara Sunstrider|Lythara]]
-5. [[Gambit]]
+1. [[wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach|Caeldrid]]
+2. [[Wild Bill]]
+3. [[Lythara Sunstrider|Lythara]]
+4. [[Gambit]]
+5. [[Amotti]]
 6. [[Elias Blackwood|Elias]]
 7. [[Sel]]
 8. [[Pastor Jeremiah|Jeremiah]]
@@ -29,4 +29,11 @@
 | Player             | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill | Jermiah |
 | ------------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | ------- |
 | Total Damage Taken | 82     | 33       | 0     | 40     | 39      | 42          | 88        | 0       |
+
+
+**Group Chapter 3 Total Damage Taken: 317**
+
+| Player             | Amotti | Caeldrid | Elias | Gambit | Lythara | Sel D'issan | Wild Bill | Jermiah |
+| ------------------ | ------ | -------- | ----- | ------ | ------- | ----------- | --------- | ------- |
+| Total Damage Taken | 0      | 130      | 25    | 37     | 80      | 0           | 45        | 0       |
 

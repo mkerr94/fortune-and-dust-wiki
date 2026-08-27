@@ -3,9 +3,9 @@
 
 Details on how many kills each character got.
 
-Total PC Kills:  **22**
+Total PC Kills:  **32**
 
-| Amotti: 2 | Caeldrid: 5 | Elias: 5 | Gambit: 3 | Lythara: 2 | Sel D'issan: 1 | Wild Bill: 2 | NPCs: 1 | Jeremiah:  1 |
+| Amotti: 2 | Caeldrid: 6 | Elias: 7 | Gambit: 5 | Lythara: 3 | Sel D'issan: 4 | Wild Bill: 2 | NPCs: 1 | Jeremiah:  1 |
 | --------- | ----------- | -------- | --------- | ---------- | -------------- | ------------ | ------- | ------------ |
 |           |             | S1: 1    | S1: 1     |            |                |              |         |              |
 |           |             | S4: 1    |           |            |                | S4: 1        | S4: 1   |              |
@@ -16,3 +16,7 @@ Total PC Kills:  **22**
 |           | S28: 1      |          |           |            |                |              |         |              |
 | S29:1     |             | S29: 1   |           |            |                |              |         |              |
 |           | S42: 2      | S42: 1   |           | S42: 2     |                |              |         |              |
+|           |             |          |           | S45: 1     |                |              |         |              |
+|           |             | S46: 1   |           |            |                |              |         |              |
+|           |             | S47: 1   | S47: 1    |            | S47: 1         |              |         |              |
+|           | S48: 1      |          | S48: 2    |            | S48: 2         |              |         |              |
