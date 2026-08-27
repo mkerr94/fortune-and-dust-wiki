@@ -1,7 +1,7 @@
 #stats 
 
 > [!important] Total Dungeon Master Nat 20's
-> **11**
+> **12**
 
 | Non Playable Character                     | Session Number | Skill Check            |     |
 | ------------------------------------------ | -------------- | ---------------------- | --- |
@@ -16,4 +16,4 @@
 | [[Jessie 'Doc' Lawrence\|Jessie Lawrence]] | 24             | Wisdom Saving Throw    |     |
 | [[Brez-ak]]                                | 28             | Initiative             |     |
 | [[The Chronovores]]                        | 30             | Attack                 |     |
-|                                            |                |                        |     |
+| [[The Nightcrawlers\|Nightcrawler]]        | 46             | Attack                 |     |

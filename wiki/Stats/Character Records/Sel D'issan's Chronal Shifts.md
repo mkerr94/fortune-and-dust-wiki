@@ -42,4 +42,7 @@
 	
 	1. Thieves tools Roll - Elias (Failure)
 
+**Session 46**
+	
+	1. Thieves tools Roll - Elias (Failure)
 

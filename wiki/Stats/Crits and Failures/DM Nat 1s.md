@@ -1,7 +1,7 @@
 #stats 
 
 > [!important] Total Dungeon Master Nat 20's
-> **11**
+> **12**
 
 | Non Playable Character                     | Session Number | Skill Check               |
 | ------------------------------------------ | -------------- | ------------------------- |
@@ -15,5 +15,5 @@
 | [[The Chronovores]]                        | 30             | Attack                    |
 | [[The Chronovores]]                        | 30             | Attack                    |
 | [[Hermus Aspall]]                          | 35             | Deception                 |
-| [[Cayote]]                                 | 42             | Attack                    |
-|                                            |                |                           |
+| [[The Coyote Pack]]                        | 42             | Attack                    |
+| [[The Reanimated]]                         | 49             | Dex Saving Throw          |
