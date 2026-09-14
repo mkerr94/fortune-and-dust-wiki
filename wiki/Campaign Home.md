@@ -16,7 +16,7 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 
 ## Latest Session
 
-**[[Session 50]]**
+**[[Session 53]]**
 
 ## Latest Created Pages
 
@@ -88,6 +88,9 @@ The society is young and vulnerable to chaos, with the laws of the cities rarely
 - [[Session 48]]
 - [[Session 49]]
 - [[Session 50]]
+- [[Session 51]]
+- [[Session 52]]
+- [[Session 53]]
 
 # The Players
 

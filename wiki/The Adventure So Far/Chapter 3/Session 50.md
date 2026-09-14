@@ -65,6 +65,6 @@ He and Bill embrace, and Bill makes one more revelation.
 
 > *"Before I left. My parents. They did something to me."*
 
-Eli takes him back to the Town Hall, and argues the case to learn more about Bill's condition before casting him out. Amotti protests, but Eli likens it to the infection of Maeve's making that they all experienced in Fortuna. They came through that together and they will overcome this together. Sel relents, and points out that Wild Bill seems to occupy a space somewhere between vampire and human, and seems to be his human self currently. He agrees that more is needed to be known, and remembers a book that may have the answers - Curse of the Vampyr.
+Eli takes him back to the Town Hall, and argues the case to learn more about Bill's condition before casting him out. Amotti protests, but Eli likens it to the infection of Maeve's making that they all experienced in Fortuna. They came through that together and they will overcome this together. Sel relents, and points out that Wild Bill seems to occupy a space somewhere between vampire and human, and seems to be his human self currently. He agrees that more is needed to be known, and remembers a book that may have the answers - [[Curse of the Vampyr - Book|Curse of the Vampyr]].
 
 Wondering if it may be in the Town Hall Archive, he sends Caeldrid and Amotti to search for it.

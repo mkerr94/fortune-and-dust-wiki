@@ -12,15 +12,16 @@ aliases:
 | Played By | Class | Race  | Character Sheet                                |
 | --------- | ----- | ----- | ---------------------------------------------- |
 | Grant     | Rogue | Human | https://www.dndbeyond.com/characters/122796153 |
-![[Pasted image 20260827111421.png|411]]
+
 # Description
+
+![[Pasted image 20260827111421.png|411]]
 
 Elias Blackwood is a lean, wiry man in his early thirties, standing at around 5'11". His dark, tousled hair falls a few inches above his shoulders, often kept tucked behind his ears. His piercing green eyes, sharp and observant, seem to miss nothing, constantly darting about to take in his surroundings. Elias's face is marked by a few faint scars, souvenirs of past encounters and close calls, adding a rugged edge to his otherwise handsome features. 
 
 Elias is rarely seen without his worn, dark brown Stetson-style hat, which casts a shadow over his eyes. His attire is practical and unassuming, favouring dark, muted colours that help him blend into the shadows. A well-worn, hooded cloak often shrouds his form, concealing an array of hidden pockets and compartments filled with the tools of his trade. 
 
 Elias often smokes a pipe, the smoke curling around him as he contemplates his next move. Despite his stealthy appearance, there is a quiet intensity in his gaze.
-
 
 # Journey So Far
 
@@ -47,8 +48,6 @@ The two embrace, and Bill then reveals that, before he fled, **his parents did s
 The moment provides perhaps the clearest indication yet that Eli's loyalty is not merely practical. He is willing to put himself at risk for someone he considers a friend, even when that person has just demonstrated the capacity to seriously hurt another member of the group. It also reveals something about Eli's own worldview: his statement that _"we all have demons inside us"_ feels particularly poignant for a man who has spent the entire journey keeping his own past largely hidden. Whether this is simply compassion for Bill or an indication that Eli understands something about carrying one's own demons that he has never shared with the others remains unknown.
 
 Despite everything that has been revealed about the world around him, remarkably little has been revealed about Eli himself. He has allowed the party to learn fragments of his history, but his life before the expedition remains largely hidden. The more time he spends investigating the mysteries of others, the more conspicuous the mystery surrounding Elias Blackwood himself becomes.
-
----
 
 # Backstory
 

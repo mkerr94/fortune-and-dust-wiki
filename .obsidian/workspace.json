@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d024183d5be5ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/People & Organisations/NPCs/The Emerald Viper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Emerald Viper"
-            }
-          },
-          {
             "id": "97e6090a80fdc1ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Wiki Administration/Recently Updated.md",
+                "file": "wiki/Campaign Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recently Updated"
+              "title": "Campaign Home"
+            }
+          },
+          {
+            "id": "3565a53c93f1c203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Places, Buildings and Holdings/Underton Mysteries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Underton Mysteries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "book",
+                "query": "session 51",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Wiki Administration/Recently Updated.md",
+                "file": "wiki/Campaign Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,52 +216,51 @@
   },
   "active": "97e6090a80fdc1ea",
   "lastOpenFiles": [
-    "wiki/People & Organisations/Player Characters/Wild Bill.md",
-    "assets/wild_bill_updated.png",
-    "wiki/Campaign Home.md",
     "wiki/Wiki Administration/Recently Created.md",
     "wiki/Wiki Administration/Recently Updated.md",
-    "wiki/The Adventure So Far/Chapter 3/Session 50.md",
-    "wiki/The Adventure So Far/Chapter 3/Session 48.md",
-    "wiki/The Adventure So Far/Chapter 3/Session 49.md",
-    "wiki/People & Organisations/NPCs/Thomias Blake.md",
-    "wiki/Places, Buildings and Holdings/Underton Mysteries.md",
-    "wiki/People & Organisations/NPCs/The Mother.md",
-    "wiki/People & Organisations/NPCs/Violet.md",
-    "wiki/People & Organisations/Gabriel.md",
-    "wiki/People & Organisations/NPCs/Tenby.md",
-    "wiki/People & Organisations/NPCs/The Emerald Viper.md",
-    "wiki/People & Organisations/NPCs/Dion.md",
-    "wiki/People & Organisations/NPCs/Henry Winslow.md",
-    "wiki/People & Organisations/NPCs/Milton.md",
-    "wiki/People & Organisations/NPCs/Agatha Winslow.md",
-    "wiki/People & Organisations/NPCs/Mayor Jacques Colliere.md",
-    "wiki/Places, Buildings and Holdings/Dungeons/Underton Town Hall.md",
-    "wiki/Monsters & Villains/The Lurker.md",
-    "assets/the_lurker.png",
-    "wiki/Monsters & Villains/The Nightcrawlers.md",
-    "wiki/Monsters & Villains/Fire-opal Golems.md",
-    "wiki/Places, Buildings and Holdings/The Coal Track.md",
+    "wiki/The Adventure So Far/Chapter 3/Session 53.md",
+    "assets/underton_mining_co_door_code_solution.png",
     "wiki/Alcadenan Historia/Deities/The Scientist.md",
+    "wiki/Magical Items/Curse of the Vampyr - Book.md",
+    "wiki/Magical Items/The Fungal Spores.md",
+    "wiki/Magical Items/Bottle of Sunlight.md",
+    "wiki/Magical Items/Evoker's Field Journal - Book.md",
+    "wiki/Places, Buildings and Holdings/Underton Mysteries.md",
+    "wiki/The Adventure So Far/Chapter 3/Session 52.md",
+    "Untitled.md",
+    "wiki/Campaign Home.md",
+    "wiki/People & Organisations/NPCs/Granville Milton.md",
+    "wiki/The Adventure So Far/Chapter 3/Session 49.md",
+    "wiki/People & Organisations/NPCs/Mayor Jacques Colliere.md",
+    "wiki/Documents & Letters/Underton Sub-surface Survey Map.md",
+    "wiki/Places, Buildings and Holdings/Underton.md",
+    "assets/geological_survey_room_buttons.png",
+    "assets/underton_mines_map.png",
+    "wiki/The Adventure So Far/Chapter 3/Session 51.md",
+    "assets/crescent_moon_and_star.png",
+    "wiki/People & Organisations/NPCs/Jander Sunstar.md",
+    "wiki/People & Organisations/NPCs/Strahd von Zarovich.md",
+    "wiki/The Adventure So Far/Chapter 3/Session 50.md",
+    "wiki/People & Organisations/Player Characters/Sel.md",
+    "wiki/Stats/Rankings/Damage Taken.md",
+    "wiki/Stats/Rankings/Damage Dealt.md",
+    "wiki/People & Organisations/Player Characters/Elias Blackwood.md",
+    "assets/wild_bill_updated.png",
+    "assets/the_lurker.png",
     "assets/the_scientist_symbol.png",
-    "wiki/Alcadenan Historia/Deities/The Sorcerer.md",
     "assets/the_sorcerer_symbol.png",
     "assets/the_warrior_symbol.png",
     "assets/the_reanimated.png",
-    "assets/nightcrawler.png",
     "wiki/The Adventure So Far/Chapter 3",
     "wiki/The Adventure So Far/Chapter 2/Untitled",
     "publish.css",
     "publish.css.minimal",
     "publish.css.prism",
     "publish.css.cupertino",
-    "assets/maeve.png",
-    "assets/chiropterrings.png",
     "publish.css.bk",
     "public/Fortune & Dust/People & Organisations/Player Characters",
     "public/Fortune & Dust/People & Organisations",
     "public/Fortune & Dust",
-    "assets/the_chronovores.png",
     "Untitled.canvas"
   ]
 }

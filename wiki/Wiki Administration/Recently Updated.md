@@ -1,17 +1,17 @@
-| File                                                                                       | Last Modified              |
-| ------------------------------------------------------------------------------------------ | -------------------------- |
-| [[wiki/People & Organisations/Player Characters/Wild Bill.md\|Wild Bill]]                  | 10:26 PM - August 26, 2026 |
-| [[wiki/Campaign Home.md\|Campaign Home]]                                                   | 5:06 PM - August 25, 2026  |
-| [[wiki/The Adventure So Far/Chapter 3/Session 50.md\|Session 50]]                          | 5:06 PM - August 25, 2026  |
-| [[wiki/The Adventure So Far/Chapter 3/Session 49.md\|Session 49]]                          | 5:02 PM - August 25, 2026  |
-| [[wiki/Places, Buildings and Holdings/Underton Mysteries.md\|Underton Mysteries]]          | 5:00 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/Mayor Jacques Colliere.md\|Mayor Jacques Colliere]]     | 4:58 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/The Mother.md\|The Mother]]                             | 4:58 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/Violet.md\|Violet]]                                     | 4:57 PM - August 25, 2026  |
-| [[wiki/People & Organisations/Gabriel.md\|Gabriel]]                                        | 4:56 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/Tenby.md\|Tenby]]                                       | 4:55 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/The Emerald Viper.md\|The Emerald Viper]]               | 4:54 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/Dion.md\|Dion]]                                         | 4:54 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/Milton.md\|Milton]]                                     | 4:53 PM - August 25, 2026  |
-| [[wiki/People & Organisations/NPCs/Henry Winslow.md\|Henry Winslow]]                       | 4:52 PM - August 25, 2026  |
-| [[wiki/Places, Buildings and Holdings/Dungeons/Underton Town Hall.md\|Underton Town Hall]] | 4:51 PM - August 25, 2026  |
+| File                                                                                             | Last Modified                 |
+| ------------------------------------------------------------------------------------------------ | ----------------------------- |
+| [[wiki/The Adventure So Far/Chapter 3/Session 53.md\|Session 53]]                                | 5:49 PM - September 14, 2026  |
+| [[wiki/Alcadenan Historia/Deities/The Scientist.md\|The Scientist]]                              | 5:45 PM - September 14, 2026  |
+| [[wiki/Magical Items/Curse of the Vampyr - Book.md\|Curse of the Vampyr - Book]]                 | 5:44 PM - September 14, 2026  |
+| [[wiki/Magical Items/The Fungal Spores.md\|The Fungal Spores]]                                   | 5:43 PM - September 14, 2026  |
+| [[wiki/Places, Buildings and Holdings/Underton Mysteries.md\|Underton Mysteries]]                | 5:41 PM - September 14, 2026  |
+| [[wiki/Campaign Home.md\|Campaign Home]]                                                         | 11:08 AM - September 01, 2026 |
+| [[wiki/The Adventure So Far/Chapter 3/Session 52.md\|Session 52]]                                | 11:07 AM - September 01, 2026 |
+| [[wiki/People & Organisations/NPCs/Granville Milton.md\|Granville Milton]]                       | 11:05 AM - September 01, 2026 |
+| [[wiki/The Adventure So Far/Chapter 3/Session 51.md\|Session 51]]                                | 11:04 AM - September 01, 2026 |
+| [[wiki/The Adventure So Far/Chapter 3/Session 49.md\|Session 49]]                                | 11:04 AM - September 01, 2026 |
+| [[wiki/People & Organisations/NPCs/Mayor Jacques Colliere.md\|Mayor Jacques Colliere]]           | 11:04 AM - September 01, 2026 |
+| [[wiki/Documents & Letters/Underton Sub-surface Survey Map.md\|Underton Sub-surface Survey Map]] | 11:03 AM - September 01, 2026 |
+| [[wiki/People & Organisations/NPCs/Jander Sunstar.md\|Jander Sunstar]]                           | 1:58 PM - August 31, 2026     |
+| [[wiki/People & Organisations/NPCs/Strahd von Zarovich.md\|Strahd von Zarovich]]                 | 1:58 PM - August 31, 2026     |
+| [[wiki/Magical Items/Evoker's Field Journal - Book.md\|Evoker's Field Journal - Book]]           | 1:57 PM - August 31, 2026     |

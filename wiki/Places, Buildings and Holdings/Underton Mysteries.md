@@ -5,6 +5,7 @@
 The Players come across several avenues of enquiry in their exploration of [[Underton]] and their conversations with [[Agatha Winslow]]:
 
 1. Agatha's husband, [[Henry Winslow]], missing
+	- In [[Session 49]], the Players discover that prior to and after his disappearance he had dealings with [[Mayor Jacques Colliere]] and the other Council Members of Underton. He claimed to have discovered a new coal seam in which [[Marismente|Marismentan]] relics were found shortly before the town was overcome.
 
 2. [[The Coal Track]] train requires water and coal to operate
 
@@ -14,15 +15,23 @@ The Players come across several avenues of enquiry in their exploration of [[Und
 
 5. The Rogue Marismente and Eva were last seen going into the mines, but they are overrun with monsters
 
+	- The Players find the body of a [[Marismente|Marismentan]] warrior in the Lower Archive of the Town Hall. He appears to have flooded the room with his dying act.
+
 6. Gideon, the missing Underton Mail-keeper, had one segment of a metallic seal in his possession, the others are missing
 
-In [[Session 45]], Agatha tells the group that she thinks that there are six such seals, and that they were given to council members of Underton by Mayor Colliere. Her husband, Henry, had one which she believes must still be in the Schoolhouse.
+	- In [[Session 45]], Agatha tells the group that she thinks that there are six such seals, and that they were given to council members of Underton by Mayor Colliere. Her husband, Henry, had one which she believes must still be in the Schoolhouse.
+	- In [[Session 46]], the Players find the [[Underton Town Hall|town hall]] vault. They confirm that six seals are needed and that the one currently in their possession fits the indents on the vault door.
+	- In [[Session 49]], the Players learn from the journal of [[Mayor Jacques Colliere]] that he has hidden his seal. He gave the others to the Underton Council members, with the exception of Chief Engineer Tenby whom he didn't trust. This seal was instead given to Dion, the saloon owner.
+	- In [[Session 51]] the group read a ledger containing the identities of the Underton Council Members: Tenby the Chief Engineer, Gideon the Mailkeeper, Gabriel the Priest, Colliere the Mayor, [[Granville Milton|Milton]] the Mine Overseer and Winslow the Schoolmaster.
 
-In [[Session 46]], the Players find the [[Underton Town Hall|town hall]] vault. They confirm that six seals are needed and that the one currently in their possession fits the indents on the vault door.
+7. In [[Session 46]] the group come across the body of a young woman that has been hollowed out through a forced opening in her back. The corpse later reanimates and attacks them. [[Elias Blackwood|Eli]] sees several small shapes scurry from the body after it is defeated. He wonders how this is possible and what could be behind it.
 
-7. In Session 46, the group come across the body of a young woman that has been hollowed out through a forced opening in her back. The corpse later reanimates and attacks them. [[Elias Blackwood|Eli]] sees several small shapes scurry from the body after it is defeated. He wonders how this is possible and what could be behind it.
-
-The Players find the half-turned body of [[Mayor Jacques Colliere]] in [[Session 49]], and confirm their suspicions that the townsfolk were somehow transformed into [[The Nightcrawlers]].
+	- The Players find the half-turned body of [[Mayor Jacques Colliere]] in [[Session 49]], and confirm their suspicions that the townsfolk were somehow transformed into [[The Nightcrawlers]].
 
 8. In [[Session 48]], the Players find a strange mural in the Assembly Hall of the Underton Town Hall. It depicts a scene in which, beneath a topsoil forest, catfish swim between the buildings of a stone city.
+
 9. The journal of Mayor Jaques Colliere references some illicit activities relating to spores harvested from fungi found in the Underton mine. These activities are connected to the capital of Samosetia and a figure known only as the Emerald Viper. Before things went bad in Underton, Chief Engineer Tenby was beginning to question discrepancies in the weights of coal shipments leaving on the Coal Track train.
+
+	- In [[Session 52]], the Players find records in the offices of the Underton Mining Company that suggest (in the month of Eleint) money and personnel were being funnelled into the mine excavations from an external source, and theorise that this may be linked to the new coal seam and illicit spore production.
+	- They also wonder if, having been noted by [[Jebediah ‘Jeb’ Clayborn|Jebediah Clayborn]] and [[Agatha Winslow]] to be of strangely green-coloured skin, [[Eva Vanderbilt]] herself may be the person being referred to as [[The Emerald Viper]]
+	- In [[Session 53]], the Players discover that scientists were secretly studying the effect of the refined spores on human test subjects in a hidden laboratory beneath the Underton Mining Co. headquarters. They find out that the spores allow one to experience visions of the past. Not only one's own past, but that of the fungus itself and others affected by it. [[Lythara Sunstrider|Lythara]] experiences this for herself as she samples some of the spores and experiences visions of recent events.

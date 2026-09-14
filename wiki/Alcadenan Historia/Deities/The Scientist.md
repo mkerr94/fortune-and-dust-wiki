@@ -10,6 +10,6 @@ A statue in the [[Underton Town Hall]] Ceremony Room depicts the Scientist as a 
 
 # Description
 
-The Scientist's symbol is the Captured Flame.
+The Scientist's symbol is **the Captured Flame**.
 
 ![[the_scientist_symbol.png]]
