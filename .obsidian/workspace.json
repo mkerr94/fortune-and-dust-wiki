@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Campaign Home.md",
+                "file": "wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Home"
+              "title": "Caeldrid Àrmann an Gealach"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Campaign Home.md",
+                "file": "wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,13 +187,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "wiki/Campaign Home.md"
+                "file": "wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -216,41 +217,42 @@
   },
   "active": "97e6090a80fdc1ea",
   "lastOpenFiles": [
+    "wiki/People & Organisations/Player Characters/Caeldrid - Journey So Far.md",
+    "wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach.md",
+    "Caeldrid.md",
+    "assets/caeldrid.png",
+    "wiki/Places, Buildings and Holdings/Fortuna Outpost.md",
+    "wiki/People & Organisations/Player Characters/Wild Bill.md",
+    "wiki/Campaign Home.md",
     "wiki/Wiki Administration/Recently Created.md",
     "wiki/Wiki Administration/Recently Updated.md",
+    "wiki/The Adventure So Far/Chapter 3/Session 54.md",
+    "wiki/Places, Buildings and Holdings/The Canary's Rest Saloon.md",
+    "assets/canarys_rest_description.png",
+    "wiki/People & Organisations/NPCs/Maeve.md",
+    "wiki/People & Organisations/NPCs/Zelraun.md",
+    "wiki/Magical Items/The Fungal Spores.md",
+    "wiki/People & Organisations/NPCs/Granville Milton.md",
     "wiki/The Adventure So Far/Chapter 3/Session 53.md",
     "assets/underton_mining_co_door_code_solution.png",
     "wiki/Alcadenan Historia/Deities/The Scientist.md",
     "wiki/Magical Items/Curse of the Vampyr - Book.md",
-    "wiki/Magical Items/The Fungal Spores.md",
     "wiki/Magical Items/Bottle of Sunlight.md",
     "wiki/Magical Items/Evoker's Field Journal - Book.md",
     "wiki/Places, Buildings and Holdings/Underton Mysteries.md",
     "wiki/The Adventure So Far/Chapter 3/Session 52.md",
     "Untitled.md",
-    "wiki/Campaign Home.md",
-    "wiki/People & Organisations/NPCs/Granville Milton.md",
     "wiki/The Adventure So Far/Chapter 3/Session 49.md",
     "wiki/People & Organisations/NPCs/Mayor Jacques Colliere.md",
     "wiki/Documents & Letters/Underton Sub-surface Survey Map.md",
     "wiki/Places, Buildings and Holdings/Underton.md",
     "assets/geological_survey_room_buttons.png",
     "assets/underton_mines_map.png",
-    "wiki/The Adventure So Far/Chapter 3/Session 51.md",
     "assets/crescent_moon_and_star.png",
-    "wiki/People & Organisations/NPCs/Jander Sunstar.md",
-    "wiki/People & Organisations/NPCs/Strahd von Zarovich.md",
-    "wiki/The Adventure So Far/Chapter 3/Session 50.md",
-    "wiki/People & Organisations/Player Characters/Sel.md",
-    "wiki/Stats/Rankings/Damage Taken.md",
-    "wiki/Stats/Rankings/Damage Dealt.md",
-    "wiki/People & Organisations/Player Characters/Elias Blackwood.md",
     "assets/wild_bill_updated.png",
     "assets/the_lurker.png",
     "assets/the_scientist_symbol.png",
     "assets/the_sorcerer_symbol.png",
-    "assets/the_warrior_symbol.png",
-    "assets/the_reanimated.png",
     "wiki/The Adventure So Far/Chapter 3",
     "wiki/The Adventure So Far/Chapter 2/Untitled",
     "publish.css",
