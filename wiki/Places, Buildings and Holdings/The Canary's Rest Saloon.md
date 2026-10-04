@@ -16,6 +16,10 @@ In [[Session 54]], the Players enter the Canary's Rest to find a sight they did 
 > 
 > On your left, a smooth wooden bar stretches out in a gentle curve. Empty glasses glint like stars upon its dark sky, catching the light of the lamps. Next to it, a staircase slopes upward to a balcony. A beautiful woman of tumbling red hair and cushioned bust rests a hand on the banister, looking out with a smile to the room below.  Behind the bar, a barman idly polishes a whisky tumbler with a dishcloth and smiles to himself.
 
+In [[Session 55]], recovered from their respective vision of the past, the Players decide to look inside The Canary’s Rest without entering. [[Gambit]] illuminates the dark interior with some glowing nuts and bolts.
+
+Inside, the Players see a disturbing sight among the swirling clouds of shimmering dust. The saloon appears to them as a twisted mirror of the one they had just left. Skeletons litter the tables. A dead barman clutches a dusty bottle of whisky in his lifeless bony fingers. At the piano, a skeletal songstress still rests her fingers on the keys, her skull lying on the smooth lid of her instrument. The scraps of her flowing dress of indigo blue still cling to her bones.
+
 # Description
 
 Accompanying music: [PAN'S LABYRITH LULLABY LONG LONG TIME AGO - ONE HOUR THEME - THE SOUL OF LABYRINTH](https://music.youtube.com/watch?v=XUOhZ-lVKoc&si=DC1zGnla9GwTXJ0E)

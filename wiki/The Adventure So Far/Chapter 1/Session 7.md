@@ -28,11 +28,11 @@ Bidding goodnight to Holden and returning to the [[Clayborn Inn]], the players f
 
 Upstairs, [[Elias Blackwood|Elias]] recounts his discoveries in the Clayborn Inn living quarters and the revelations of [[Marie Clayborn's Letter]] to [[Sel]] and [[Caeldrid Àrmann an Gealach|Caeldrid]], with Sel resolving to talk to Sam at Whip's funeral the next day (after failing to convince a confused Hattie to wake him from his sleep for a conversation). In turn, Sel reveals to Elias and Caeldrid that [[Ignatius 'Nate' Barnett|Ignatius Barnett]] is a fire-genasi. Before resigning himself to bed, Sel buys an expensive bottle of whisky from Hattie.
 
-Elias suffers a restless sleep. In his dreams, he finds himself back at a familiar table, in a familiar home. A family gathered in the room idly chat to one another. A tall, lean man with a mop of black hair and bright green eyes checks a pot at the hearth. To Elias' right, a kind-faced woman with rolls of blonde hair shows a similarly-blonde young girl the intricacies of crafting jewellery. Bright and inquisitive, the young girl, who the lean man calls Lyra, explains that she has no interest in jewel-craft, and wishes for a life of adventure.
+Elias suffers a restless sleep. In his dreams, he finds himself back at a familiar table, in a familiar home. A family gathered in the room idly chat to one another. A tall, lean man with a mop of black hair and bright green eyes checks a pot at the hearth. To Elias' right, a kind-faced woman with rolls of blonde hair shows a similarly-blonde young girl the intricacies of crafting jewellery. Bright and inquisitive, the young girl, who the lean man calls [[Lyra]], explains that she has no interest in jewel-craft, and wishes for a life of adventure.
 
 > *"I'm going to stalk the streets like Elias, rooting out injustice wherever it lurks!"*
 
-Amara, a stern young woman of raven-black hair and startling eyes of verdant green curtly interjects - having previously been anxiously gazing out of the window. She reprimands Lyra for her naivety, and scolds her father for indulging it.
+[[Amara]], a stern young woman of raven-black hair and startling eyes of verdant green curtly interjects - having previously been anxiously gazing out of the window. She reprimands Lyra for her naivety, and scolds her father for indulging it.
 
 > *"We all have to grow up sooner or later, father."*
 

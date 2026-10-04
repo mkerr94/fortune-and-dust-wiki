@@ -63,7 +63,7 @@ During a restless sleep at the [[Clayborn Inn]], Eli experienced an unusually vi
 
 A tall, lean man with **black hair and bright green eyes** stood by the hearth. His appearance is strikingly similar to Eli's own, particularly his distinctive green eyes. Beside Eli sat a kind-faced blonde woman, showing a young blonde girl the intricacies of jewellery making.
 
-The girl was named **Lyra**.
+The girl was named **[[Lyra]]**.
 
 Lyra had little interest in jewellery and instead dreamed of a life of adventure. Most significantly, she declared:
 
@@ -71,7 +71,7 @@ _"I'm going to stalk the streets like Elias, rooting out injustice wherever it l
 
 This suggests that whatever Eli's role in [[Waterdeep]] was, **Lyra knew of it and looked up to him**, aspiring to follow the same path.
 
-Another young woman, **Amara**, was also present. She had raven-black hair and striking green eyes and appeared considerably more stern than Lyra. She reprimanded Lyra for her naivety and scolded her father for indulging her ambitions. This establishes at least some familial connection between Amara, Lyra and the father figure in the house, although the precise relationship between these figures and Eli has never been explicitly explained.
+Another young woman, **[[Amara]]**, was also present. She had raven-black hair and striking green eyes and appeared considerably more stern than Lyra. She reprimanded Lyra for her naivety and scolded her father for indulging her ambitions. This establishes at least some familial connection between Amara, Lyra and the father figure in the house, although the precise relationship between these figures and Eli has never been explicitly explained.
 
 The scene was interrupted by an increasingly ominous **knocking at the door**. As the knocking became more disturbing, the room and the figures began to swirl and distort until Eli awoke suddenly.
 
