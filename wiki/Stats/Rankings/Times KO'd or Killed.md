@@ -2,13 +2,13 @@
 
 ### Unconsciousness Ranking
 
-1. [[Wild Bill]]: 2
-2. [[Gambit]]: 2
-3. [[Amotti]]: 2
+1. [[Amotti]]: 3
+2. [[Wild Bill]]: 2
+3. [[Gambit]]: 2
 4. [[Elias Blackwood|Eli]]: 1
 5. [[Caeldrid Àrmann an Gealach|Caeldrid]]: 1
 6. [[Sel]]: 1
-### Times knocked unconscious: 9
+### Times knocked unconscious: 10
 
 
 

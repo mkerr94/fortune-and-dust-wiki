@@ -1,7 +1,7 @@
 #stats 
 
 > [!important] Total Dungeon Master Nat 20's
-> **12**
+> **13**
 
 | Non Playable Character                     | Session Number | Skill Check            |     |
 | ------------------------------------------ | -------------- | ---------------------- | --- |
@@ -17,3 +17,4 @@
 | [[Brez-ak]]                                | 28             | Initiative             |     |
 | [[The Chronovores]]                        | 30             | Attack                 |     |
 | [[The Nightcrawlers\|Nightcrawler]]        | 46             | Attack                 |     |
+| Monstrosity                                | 56             | Attack                 |     |
