@@ -25,3 +25,5 @@
 7. [[Lythara Sunstrider|Lythara]] ([[Session 45]]) [[The Nightcrawlers|Nightcrawler]]
 8. [[Elias Blackwood|Eli]] ([[Session 46]]) [[The Nightcrawlers|Nightcrawler]] 
 9. [[Gambit]] ([[Session 48]]) [[The Reanimated]]
+10. [[Lythara Sunstrider|Lythara]] ([[Session 54]]) [[Scalpal Zombie]]
+11. [[Lythara Sunstrider|Lythara]] ([[Session 56]]) [[Monstrosity]]

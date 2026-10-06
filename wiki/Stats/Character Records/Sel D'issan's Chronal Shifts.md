@@ -46,3 +46,11 @@
 	
 	1. Thieves tools Roll - Elias (Failure)
 
+**Session 55**
+	
+	1. Unknown (Failure)
+
+**Session 58**
+	
+	1. Monstrosity - Saving throw (Failure)
+

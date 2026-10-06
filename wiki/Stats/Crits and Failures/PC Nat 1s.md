@@ -1,19 +1,19 @@
 #stats
 
 > [!important] Total Player-Character Nat 1's
-> **39**
+> **44**
 
 # Nat 1 Leaderboard
 
-| Rank | Player                                   | Count |
-| ---- | ---------------------------------------- | ----- |
-| 1    | [[Wild Bill]]                            | $12$  |
-| 2    | [[Elias Blackwood\|Eli]]                 | $9$   |
-| 3    | [[Amotti]]                               | $3$   |
-| 4    | [[Sel]]                                  | $3$   |
-| 5    | [[Caeldrid Àrmann an Gealach\|Caeldrid]] | $7$   |
-| 6    | [[Gambit]]                               | $4$   |
-| 7    | [[Lythara Sunstrider\|Lythara]]          | $1$   |
+| Rank | Player                                                                                 | Count |
+| ---- | -------------------------------------------------------------------------------------- | ----- |
+| 1    | [[Wild Bill]]                                                                          | $12$  |
+| 2    | [[Elias Blackwood\|Eli]]                                                               | $10$  |
+| 3    | [[wiki/People & Organisations/Player Characters/Caeldrid Àrmann an Gealach\|Caeldrid]] | $7$   |
+| 4    | [[Gambit]]                                                                             | $4$   |
+| 5    | [[Amotti]]                                                                             | $4$   |
+| 6    | [[Sel]]                                                                                | $4$   |
+| 7    | [[Lythara Sunstrider\|Lythara]]                                                        | $3$   |
 
 # Nat 1 Table
 
@@ -54,3 +54,7 @@
 | [[Wild Bill]]                                                                          | 48             | Attack Roll               |     |
 | [[Elias Blackwood\|Eli]]                                                               | 48             | Attack Roll               |     |
 | [[Elias Blackwood\|Eli]]                                                               | 49             | Perception                |     |
+| [[Lythara Sunstrider\|Lythara]]                                                        | 53             | Attack roll               |     |
+| [[Amotti]]                                                                             | 53             | Strength                  |     |
+| [[Lythara Sunstrider\|Lythara]]                                                        | 56             | Attack Roll               |     |
+| [[Elias Blackwood\|Eli]]                                                               | 56             | Investigation             |     |
